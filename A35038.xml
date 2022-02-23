@@ -1,0 +1,1699 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Analepsis, or, Saint Peters bonds abide for rhetorick worketh no release, is evidenced in a serious and sober consideration of Dr. John Gauden's sense and solution of the Solemn League and Covenant : so far as it relates to the government of the church by episcopacy / by Zech. Crofton.</title>
+            <author>Crofton, Zachary, 1625 or 6-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35038</idno>
+            <idno type="STC">Wing C6984</idno>
+            <idno type="STC">ESTC R7749</idno>
+            <idno type="EEBO-CITATION">11800834</idno>
+            <idno type="OCLC">ocm 11800834</idno>
+            <idno type="VID">49382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 528:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Analepsis, or, Saint Peters bonds abide for rhetorick worketh no release, is evidenced in a serious and sober consideration of Dr. John Gauden's sense and solution of the Solemn League and Covenant : so far as it relates to the government of the church by episcopacy / by Zech. Crofton.</title>
+                  <author>Crofton, Zachary, 1625 or 6-1672.</author>
+               </titleStmt>
+               <extent>2, 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gauden, John, 1605-1662.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643)</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2006-09</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49382:1"/>
+            <pb facs="tcp:49382:1"/>
+            <p>ΑΝΑΛΗΨΙΣ,
+OR
+Saint <hi>PETERS BONDS</hi> abide:
+FOR
+RHETORICK
+Worketh no
+RELEASE,
+Is evidenced in
+A ſerious and ſober conſideration of
+Dr. <hi>John Gauden</hi>'s ſence and ſolution
+of the Solemn League and Covenant,
+SO FAR
+<hi>As</hi> it relates to the Government of
+the Church by Epiſcopacy.</p>
+            <p>By ZECH. CROFTON.</p>
+            <q>
+               <bibl>Joſh. 9. 19.</bibl>
+               <p>VVe have ſworne unto them by the Lord
+God of <hi>Iſrael;</hi> now therefore we may not touch
+them.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ralph Smith,</hi> at the Bible in
+<hi>Cornhill,</hi> near the Royal Exchange. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:49382:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49382:2"/>
+            <head>TO THE
+HONOURED
+Sir LAWRENCE BROMFEILD,
+Knight, and Colonel in
+LONDON.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU have been pleaſed (in order to compoſure
+of our unhappy differences) to ſuggeſt unto a
+grave and learned Divine, a conſiderable caſe of
+conſcience Relating to Church-Diſcipline,
+<hi>(viz.) The conſiſtency of Epiſcopacy with the
+Solemn League and Covenant,</hi> and you have
+thereby produced his Reſolution unto the <hi>looſing
+of Saint Peters Bonds,</hi> as he is pleaſed to Entitle it: You
+may Sir, remember, it is <hi>Solomons</hi> experienced Rule, <hi>It is a
+ſnare (or ſtumbling ſtone) to devoure holy things,</hi>
+               <note place="margin">Pro. 20. 2<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>and after
+vows to make enquiry:</hi> (How to keep or retract them (ſaith
+<hi>Mercer)</hi> for that, indeed, many times, the Reſolution pro<g ref="char:EOLhyphen"/>veth
+more entangling than the Obligation; I wiſh that this
+were not found the unhappy fate of Dr. <hi>Gawden his ſence and
+ſolution of the Covenant in point of Epiſcopacy.</hi>
+            </p>
+            <p>Truly Sir, according to that little skill that I have in things of
+this nature, this <hi>Reſolution</hi> to your enquiry is ſo ſadly ſhipwrackt
+on the <hi>uncertainty of the object, in advertency of expreſſion</hi> and
+<hi>imbecillity of anſwer and Argument,</hi> thoſe three Rocks that
+<pb n="2" facs="tcp:49382:3"/>
+lay-way conſcience-ſatisfaction; that it cannot arrive at its
+deſired haven; but notwithſtanding its Angelical voice will
+leave Saint <hi>Peter</hi> as faſt fettered as it found him: If Sir, I may
+do it without offence, I would make bold to diſcover it that
+ſome other attempt for Saint <hi>Peters</hi> reſcue may be under<g ref="char:EOLhyphen"/>taken.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <note place="margin">Uncertain pro<g ref="char:EOLhyphen"/>poſal of the ob<g ref="char:EOLhyphen"/>ject.</note> Sir, there is not a greater danger to be ſhunned by <hi>a
+Caſuiſt,</hi> than <hi>a miſtake, or uncertain propoſal of the object, or</hi>
+Ratio formalis <hi>of the obligation ſcrupled and to be diſcharged,</hi>
+whereby the ſcrupulous conſcience doth eaſily ſtart from the
+moſt pinching Concluſions that are put upon it; and herein Sir,
+if I miſtake not, the Dr. is very unhappy; for he propounds
+the object, or <hi>Ratio formalis</hi> of the Covenant, under the
+general term <hi>Epiſcopacy;</hi> the which he well knoweth, is own<g ref="char:EOLhyphen"/>ed
+as an appellation common to all, and every the Governours
+of the Church,<note place="margin">Acts 20. 28.</note> who are in Scripture denominated <hi>Biſhops,</hi> and
+by good demonſtration <hi>Biſhop</hi> and <hi>Presbyter</hi> have been aſſerted
+to be ſynominous titles of Church-Officers, and are found to
+have been ſo uſed in the Primitive times of the Church, and
+Writings of the Fathers;<note place="margin">The true ſence of Epiſcopacy conſiſtent with the Covenant.</note> and in this ſence the <hi>Epiſcopacy<g ref="char:punc">▪</g>
+               </hi> which
+he ſuppoſeth to be the object of the Covenant, intends only
+the Government of the Church by the Miniſters and Officers
+thereof, who may, and muſt in their ſeveral Aſſemblies <hi>(ordi<g ref="char:EOLhyphen"/>nis
+cauſâ)</hi> have a Preſident or Moderator to Regulate and di<g ref="char:EOLhyphen"/>ſpoſe
+all things which belong to order; as in all policy to the Chair
+belongeth; and if this be it he means by his <hi>Epiſcopacy, Primi<g ref="char:EOLhyphen"/>tive,
+Regular, Reformed, and paternal Epiſcopacy:</hi> which I
+could eaſily imagine when I obſerve the Emphaſis of his univer<g ref="char:EOLhyphen"/>ſal
+diſcretive <hi>All Epiſcopacy,</hi> page 9. and elſewhere oftenmen<g ref="char:EOLhyphen"/>tioned,
+and that in an oppoſition<g ref="char:punc">▪</g> to <hi>ſome Epiſcopacy abjured
+and fit to be extirpated;</hi> and that it is explained by the adjuncts,
+<hi>Reformed and Regulated as it ought to be,</hi> as page 8. and op<g ref="char:EOLhyphen"/>poſed
+to an <hi>Epiſcopacy</hi> the confeſſed Subject of <hi>abuſive exceſſes
+and defects</hi> not only in the <hi>execution of its authority, through
+the faults, and infirmities of ſome Biſhops, and their inſtru<g ref="char:EOLhyphen"/>ments;
+who poſſibly were not ſo worthy and good; or not ſo wiſe,
+and diſcreet, as became Chriſtian Biſhops, and Eccleſiaſtical
+Governours of Chriſts Church;</hi> but alſo in the very <hi>inconveni<g ref="char:EOLhyphen"/>ency
+of its conſtitution and Cuſtoms in England.</hi> p. 10. In
+<pb n="3" facs="tcp:49382:3"/>
+both which he confeſſeth, <hi>page</hi> 21. there needeth <hi>an honeſt and
+ingenuous Reformation of Epiſcopacy, beyond the former exceſ<g ref="char:EOLhyphen"/>ſive,
+or defective conſtitution, or execution of it:</hi> And more
+particularly by that Explication which is annexed in <hi>page</hi> 14.
+<hi>The efficacious conjunction of it with Presbyterie according to
+the Reduction of the most reverend Primate of</hi> Armagh, <hi>and the
+conſiderations of the Lord</hi> Verulam <hi>offered to King</hi> James: if
+I ſay this be the <hi>Epiſcopacy</hi> he means; I humbly conceive in his
+Book he doth <hi>ſudare de nugis,</hi> labour to little purpoſe; for ſo
+farre is any intelligent Covenanter from looking on their <hi>look<g ref="char:EOLhyphen"/>ing
+back, to the Primitive, Catholick, and Univerſal govern<g ref="char:EOLhyphen"/>ment,
+of this, or any other ancient Churches; to endanger the
+turning of them into Pillars of Apoſtacy, as Lots wife was into a
+Pillar of Salt,</hi> that they judge an arrival at it, to be their <hi>Zoar
+in their eſcape from Sodom;</hi> and hereof he might have aſſured
+himſelf by what <hi>page</hi> 22. he profeſſeth himſelf to <hi>know to have
+been the ſence of the Learned men in the late Aſſemby of Divines,</hi>
+and by Mr. <hi>Marſhal</hi>'s Declaration that the Covenant was le<g ref="char:EOLhyphen"/>velled
+at the <hi>Despoticum Tyrannicum Regimen;</hi> there are no
+Covenanters that know any thing of the true nature of Preſ<g ref="char:EOLhyphen"/>bytery,
+but they will embrace this <hi>Epiſcopacy</hi> as not only con<g ref="char:EOLhyphen"/>ſiſtent
+with, but the very complement of the <hi>Covenant</hi> as to that
+point and Article; and will confeſs this is not only <hi>the honeſt,</hi>
+but <hi>literal and complexive meaning of it,</hi> and with him will
+condemn them for <hi>rigid Bigots and virulent ſpirits,</hi> to be
+ſlighted, not ſtriven with, who conceive themſelves bound a<g ref="char:EOLhyphen"/>gainſt
+ſuch a <hi>Primitive, Reformed, and Regular Epiſcopacy</hi> un<g ref="char:EOLhyphen"/>der
+ſuch a reduction as I conceive would prove the formal
+corruption of the <hi>Epiſcopacy covenanted againſt,</hi> and I
+hope he will finde few, very few ſuch Covenanters in <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+            </p>
+            <p>But if Sir, by <hi>Epiſcopacy</hi> he mean (as I muſt confeſs I am
+jealous he doth) that <hi>frame and fabrick</hi> by which the man of
+ſin was made manifeſt, did advance himſelf in the Temple of
+God,<note place="margin">The vulgar and late acceptati<g ref="char:EOLhyphen"/>on of Epiſco<g ref="char:EOLhyphen"/>pacy repugnant to the Cove<g ref="char:EOLhyphen"/>nant.</note> above (not only all his fellow Miniſters or Biſhops)
+but even Magiſtrates, all that were called God; <hi>which was,</hi> by
+his appearance and exaltation, <hi>innovated into, and obtruded on</hi>
+the Churches of God in theſe Nations, on the fall of the Monks
+of <hi>Bangor,</hi> and <hi>was ſo exerciſed,</hi> that <hi>Anſelm</hi> (whom <hi>Laude</hi>
+               <pb n="4" facs="tcp:49382:4"/>
+ſucceeded, as in place, ſo in property, and almoſt power) did
+appear <hi>papa alterius mundi; wherein</hi> Biſhops as a ſpecies or
+kind of Miniſters different and diſtinct from Presbyters; and ſo
+Superior to them, not only in point of Order, but Office and
+Authority, together with all that <hi>Hierarchy</hi> by which it was
+executed; all which his terms do too plainly ſuggeſt when he
+ſpeaks of the Epiſcopacy <hi>which England ſometimes had; was
+lately deſproyed, the legal Epiſcopacy,</hi> pa. 19 an Epiſcopacy
+<hi>wherein</hi> the <hi>Biſhops</hi> are diſtinct from <hi>Presbyters,</hi> pag. 21. ar<g ref="char:EOLhyphen"/>rogate
+unto themſelves the ſole power of <hi>Ordaining</hi> Miniſters,
+and to be the chief <hi>Conſervators, Ciſterns,</hi> and <hi>Conduits</hi> of
+Eccleſiaſtical authority, and Miniſterial power. page 12. who
+have not only Precedency and Order, but <hi>paternal authority;</hi>
+page 18. and that not only over <hi>people,</hi> but their <hi>Paſtors;</hi>
+who are by this antitheſis <hi>fraternal</hi> with them, and ſo <hi>fillial</hi> to
+the <hi>paternal</hi> power of the Biſhops; and make up the <hi>paternal,
+fraternal, and filial unity of Biſhops, Presbyters, and people,</hi>
+pa. 5. Nay, in oppoſition to whom the ordinary Miniſter or
+Presbyter, is diveſted of all power, and degraded of all dignity
+among the people; and the Biſhop, as dignified above him, ſo
+diſtinguiſhed from him by his Lawn ſleeves, which is plainly
+ſuggeſted when he tells us, <hi>The people of</hi> England <hi>are not to be
+governed by their equals and inferiors, becauſe they are in black
+Coats. page</hi> 17. All theſe expreſſions, with many of the like
+nature, do ſeem to ſet up and point out ſuch an Epiſcopacy, as
+is not Primitive and Regular: And I ſay, if this be the mean<g ref="char:EOLhyphen"/>ing
+of his Epiſcopacy, as the word (in the vulgar accepta<g ref="char:EOLhyphen"/>tion
+by the too long appropriation of it to ſuch an unjuſt and
+Anti-chriſtian frame of Government) may be underſtood:
+Truly Sir, then I muſt be free to tell him the ſence and very
+Letter of the Covenant is clear againſt it, and binds the taker
+<hi>in terminis</hi> to the <hi>extirpation of Prelacy, that is to ſay, the
+Government by Arch-Biſhops, Biſhops, their Chancellors, and
+Commiſſaries, Deans, Deans and Chapters, Arch-Deacons,
+and all other Eccleſiaſtical Officers depending on that Hierar<g ref="char:EOLhyphen"/>chy:</hi>
+So that it is the thing, not its abuſe; the ſubject, not its
+adjuncts; the Fabrick, not its defects and exceſſes, is covenan<g ref="char:EOLhyphen"/>ted
+againſt, nor will the Covenant be accompliſhed, or the
+conſcience be ſatisfied by the removal of the <hi>pride, preſumpti<g ref="char:EOLhyphen"/>on,
+<pb n="5" facs="tcp:49382:4"/>
+dulneſſe, covetouſneſſe, and tyranny of Biſhops,</hi> whilſt the
+<hi>preheminence, prerogative, paternal power, and juridical au<g ref="char:EOLhyphen"/>thority,</hi>
+aſſumed by them as diſtinct from and above all other
+Miniſters of the Goſpel, as the only immediate Succeſſours of
+the Apoſtles, and enforced by their High Commiſſion and ſtar<g ref="char:EOLhyphen"/>chamher
+with other imperial Courts, Officers, and proceed<g ref="char:EOLhyphen"/>ings
+are continued and eſtabliſhed; nor muſt he think by his
+Sophiſtical compariſon, to deceive and delude the conſcience,
+telling us, <hi>page</hi> 17, 18. <hi>That, they that Covenanted againſt
+Popery, cannot think they did abjure, or muſt abhorre all thoſe
+ſaving truths, and duties of Chriſtianity; which are mixed
+with Popery;</hi> for whatſoever is <hi>formal popery,</hi> though it be
+an <hi>Engliſh Maſſe or Altar,</hi> that, all that, though only that,
+muſt be abhorred; and I conceive it yet remains to be proved
+that the <hi>paternal authority</hi> of Epiſcopacy is a <hi>ſaving truth or
+Chriſtian duty,</hi> or not of the <hi>formality of prelacy,</hi> and that
+government covenanted againſt. It is no hard caſe of conſci<g ref="char:EOLhyphen"/>ence
+to reſolve whether a man may uſe the good and ſubſtanti<g ref="char:EOLhyphen"/>al
+materials of a deſtroyed Fabrick; but I conceive it an high
+fallacy, from thence to impoſe the very form reſolved a<g ref="char:EOLhyphen"/>gainſt.</p>
+            <p>You ſee Sir at what <hi>uncertainty</hi> we are left, whilſt the <hi>object
+of the obligation</hi> is propounded under a general <hi>term,</hi> whoſe
+proper, primitive, and genuine ſignification, ſuggeſts <hi>one thing,</hi>
+and the vulgar and long-uſed acceptation ſuggeſts <hi>another:</hi> and
+our <hi>reſolution</hi> is darkned by the multitude of expreſſions, con<g ref="char:EOLhyphen"/>cluding
+ſometimes one, and ſometimes the other thing; which
+of theſe ſhall a conſcientious Covenanter embrace? You can<g ref="char:EOLhyphen"/>not
+Sir but know, the work of a Caſuiſt, is, to be full, and
+clear in the diſcovery of the <hi>Ratio formalis,</hi> thing or matter;
+concerning which the conſcience conceiveth it ſelf obliged;
+and that it is a great unhappineſs in an <hi>Interpreter,</hi> and much
+greater in a <hi>Caſuiſt,</hi> to reſolve <hi>obſcura per obſcuriora.</hi>
+            </p>
+            <p>But, Sir, that I may teſtifie my willingneſs to underſtand him,
+and cement, what in me lieth, the ſad differences in the Church:
+Shall I intreat you, will pleaſe to provoke the Dr. and his An<g ref="char:EOLhyphen"/>ti-covenant
+brethren, ſuch as ſeem to advance and promote
+<hi>an Epiſcopacy</hi> ſcrupled by Covenanters; to ſpeak out and clear<g ref="char:EOLhyphen"/>ly
+to declare, whether they will admit the removal of the Go<g ref="char:EOLhyphen"/>vernment
+<pb n="6" facs="tcp:49382:5"/>
+by Arch-Biſhops, and that late Hierarchy; which he
+concludes, <hi>page</hi> 18 is dead, and muſt riſe in another quality;
+and (according to what is ſuggeſted in the <hi>Reduction</hi> by him
+urged) conſent to the eſtabliſhment of Congregational, Claſ<g ref="char:EOLhyphen"/>ſical,
+Provincial, and National Aſſemb<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Synods of Church-Officers;<note place="margin">Presbytarial E<g ref="char:EOLhyphen"/>piſcopacy ad<g ref="char:EOLhyphen"/>mitted.</note> 
+               <hi>Communi concilio Presbyteror<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> to debate and de<g ref="char:EOLhyphen"/>termine
+the affairs of the Church, and exerciſe all Acts of diſ<g ref="char:EOLhyphen"/>cipline
+and Eccleſiaſtick power: In each of which if there be
+<hi>Ignatius</hi> his <hi>Angel, Tertullian</hi> his <hi>Summus ſacerdos,</hi> or <hi>Ar<g ref="char:EOLhyphen"/>magh's
+Biſhop or Super-intendent,</hi> for order-ſake to call Aſ<g ref="char:EOLhyphen"/>ſemblies,
+propound queſtions, gather ſuffrages, require Order
+and compoſure in audience, and debate, pronounce ſentence,
+and ſign Decrees, and to be fixed in that place, enjoying all
+the dignities thereto belonging, and to be diſtinguiſhed by
+ſome ſpecial denomination from his Chorepiſcopi or Col<g ref="char:EOLhyphen"/>leagues;
+they ſhall not only enjoy my conſent (who I hope
+make conſcience of the Covenant) but alſo endeavour (which
+I think will not much need) that all the Covenanted Miniſters
+may joyne with them in a Petition to His Majeſty, that by a
+Synod (by His Majeſties Authority) called, it may be ſpeedily
+conſulted and concluded on; under which I doubt not but the
+Peace of the Church will be preſerved, and power, truth, and god<g ref="char:EOLhyphen"/>lineſs
+promoted.</p>
+            <p>But if nothing will ſerve them but Biſhops, diſtinct <hi>in Office</hi>
+from Presbyters, and exerciſing over them a <hi>paternal authority;</hi>
+appropriating to themſelves the <hi>power of ordaining Miniſters,</hi>
+               <note place="margin">Domineering Prelacy refuſed</note>
+and the <hi>ſucceſſion</hi> ro the Apoſtles, and the Juriſdiction before
+noted; we muſt intreat him to produce thoſe <hi>clear, pregnant,
+and conſtant beams of right reaſon, and true Religion, which
+ſhineth in the brightneſs and ſtability of Divine and Humane
+Laws; which may be the pillars of this truth, firm ſupports of
+duty, ſure bounds of obedience, and ſafe repoſe of conſcience in
+this point;</hi> greatly darkned by the many diſputes of Biſhops and
+Presbyters; Papiſts and Proteſtants; nay, by the poſitive aſſer<g ref="char:EOLhyphen"/>tions
+of both Papiſts and Proteſtant Divines, and determina<g ref="char:EOLhyphen"/>tions
+of Schoolmen, who have concluded <hi>Biſhops and Presby<g ref="char:EOLhyphen"/>ters
+to be Miniſters ejuſdem ordinis, equal in Office and au<g ref="char:EOLhyphen"/>thority,
+and in this very caſe of government;</hi> all which his
+very Reduction propoſed doth not obſcurely ſuggeſt. Sir, the
+<pb n="7" facs="tcp:49382:5"/>
+conſcience is by him confeſſed, to be more tender, than to be
+deluded with Sophiſtry, or ſilenced by a pretence of Regulati<g ref="char:EOLhyphen"/>on
+and Moderation, which intends no other, ſave a Reduction
+of <hi>Epiſcopacy</hi> to its priſtine and corrupt eſtate, not unto <hi>Preſ<g ref="char:EOLhyphen"/>bytery.</hi>
+            </p>
+            <p>Thus Sir I have noted the firſt Rock, and the Doctor's un<g ref="char:EOLhyphen"/>happy
+daſhing againſt it; which muſt needs render ineffectual,
+whatever he after writeth.</p>
+            <p>The <hi>inadvertency of his expreſſions</hi> will appear no leſs evi<g ref="char:EOLhyphen"/>dent,<note place="margin">Inadvertency of expreſſion.</note>
+than his ambiguous ſtate of the Scruple, and its reſoluti<g ref="char:EOLhyphen"/>on;
+if we either obſerve its <hi>fierceneſs</hi> or <hi>falſehood:</hi> The fierce<g ref="char:EOLhyphen"/>neſs
+of it is much manifeſted in thoſe multiplied invectives utter<g ref="char:EOLhyphen"/>ed
+againſt the <hi>Covenant</hi> and <hi>authority</hi> which did enjoyn it;
+and perſons who did compoſe it; in theſe and the like intem<g ref="char:EOLhyphen"/>perate
+terms, <q>a ſtratagem of State, a flag of Faction, an en<g ref="char:EOLhyphen"/>gine
+framed of purpoſe to batter down Epiſcopacy,<note place="margin">Fierce expreſ<g ref="char:EOLhyphen"/>ſions.</note> 
+                  <hi>p.</hi> 13.
+Covenanting complements, and Reformings of bungling
+Reformers, <hi>page</hi> 24. The petty compoſition of a few poli<g ref="char:EOLhyphen"/>tick
+men, Subjects, not Princes, and very mean Subjects
+too, ſome of them, either as Lawyers or Miniſters, a great
+part of whom, I and others well know to be no very great
+Clerks, or Stateſmen, fitter for a Countrey cure, than to
+contrive Solemn Leagues and Covenants; whoſe heads, ra<g ref="char:EOLhyphen"/>ther
+than their hearts; and their State correſpondencies,
+more than their conſciences brought forth the Covenant, <hi>pa.</hi>
+11. The effect of Scottiſh importunities, Engliſh complian<g ref="char:EOLhyphen"/>ces,
+and Presbyterian inſolencies, <hi>page</hi> 5. brought forth by
+the Midwifery of Tumults, and Armies, engaged and enra<g ref="char:EOLhyphen"/>ged
+parties, and factions; whoſe wrath and policy were not
+probable to work the righteouſneſs of God; evil Angels tur<g ref="char:EOLhyphen"/>ning
+our waters into blood, <hi>page</hi> 6, 7.</q> Theſe and many the
+like Railing, Taunring, and Intemperate terms, much be<g ref="char:EOLhyphen"/>low
+the expected ſobriety of a ſo publickly profeſſed <hi>healer;</hi>
+yet as an evidence of his fury, he falſely chargeth the Cove<g ref="char:EOLhyphen"/>nant
+with moſt <hi>ſad and unbleſt effects,</hi> and to have been the
+cauſe of all the <q>havocks in Church and State, improſperi<g ref="char:EOLhyphen"/>ties,
+diſorders,<note place="margin">Falſe charge.</note> confuſions, contempts, wars, ſpoyles, blood<g ref="char:EOLhyphen"/>ſhed,
+upon all eſtates, and degrees, contempt of Religion,
+and neglect of Sacraments, <hi>page</hi> 7.</q> One of the great rocks
+<pb n="8" facs="tcp:49382:6"/>
+               <q>for the King's ſhipwrack, no leſs than the Churches and
+States; and that it was watered with the King's blood. <hi>pag.</hi> 8.</q>
+I cannot but wonder to finde Dr. <hi>Gawden</hi> thus <hi>audacter calum<g ref="char:EOLhyphen"/>niare!</hi>
+for can any conſiderate Reader, or competent obſerver
+of the tranſactions of our Nations in theſe laſt years, reade
+theſe reproachful ſpeeches, and not conclude them <hi>a moſt po<g ref="char:EOLhyphen"/>ſitive
+and publick calumny?</hi> Let the Covenant it ſelf be con<g ref="char:EOLhyphen"/>ſidered,
+and can it, by reaſon of any tendency in it ſelf, be
+charged to be the <hi>proper cauſe</hi> of ſuch prodigious effects? Is it
+not the moſt <hi>fervent profeſſion</hi> of <hi>piety</hi> towards God,
+<hi>Loyalty</hi> to the King, and <hi>Juſtice</hi> towards men, that
+can be made? Is it not the moſt <hi>firm tie</hi> to Religion
+that can be faſtned? and the <hi>fulleſt ſecurity</hi> of all kinde of
+Intereſts, the prerogative <hi>of the King,</hi> the priviledges <hi>of Par<g ref="char:EOLhyphen"/>liament,</hi>
+and Liberty <hi>of the Subject,</hi> which can be given? can
+any thing but ill-will repreſent to the world ſuch <hi>unbleſt effects</hi> as
+the natural products of it? and if ſome perſons engaged in it,
+have engaged in and acted ſuch horrid impieties, inhumane and
+barbarous actions, under the falſe cry of the Covenant, ſhall a
+man of juſtice, charge the baſtard-brood of ſuch prophane<g ref="char:EOLhyphen"/>neſs,
+to be the natural iſſue of ſo Solemn and Sacred an Oath!</p>
+            <p>But Sir, will not an obſervation of the time, when theſe ſad
+and unbleſt effects fell upon us, acquit the Covenant from be<g ref="char:EOLhyphen"/>ing
+in the leaſt acceſſary unto the production of them? If my ob<g ref="char:EOLhyphen"/>ſervation
+fail me not, and I be not miſtaken in my account, the
+<q>throwing ſtools at the heads of the Biſhops in <hi>Scotland,</hi>
+                  <note place="margin">Confuſion be<g ref="char:EOLhyphen"/>fore the Cove<g ref="char:EOLhyphen"/>nant.</note> the
+pulling down the Star-Chamber and High Commiſſion
+Courts (thoſe grand ſupports of Prelatical power) the ta<g ref="char:EOLhyphen"/>king
+away the Biſhops Votes and Seſſion in Parliament: The
+preparations againſt <hi>Scotland,</hi> (by Biſhop <hi>Peirce</hi> his <hi>Bellum
+Epiſcopale)</hi> the tumults about <hi>Lambeth,</hi> the impriſonment
+of the Biſhops in the Tower, the tumults about <hi>Whitehall</hi>
+and <hi>Weſtminſter,</hi> with his late Majeſties departure from the
+two Houſes, the ſetting up his Majeſties Standard, the ala<g ref="char:EOLhyphen"/>rums
+of War, with many battels and blood-ſhed; the vio<g ref="char:EOLhyphen"/>lence
+of the vulgar againſt the Liturgy, Croſſes, and Altars,
+with all that confuſion and diſorder which attended our firſt
+unhappy differences, are of ſome years date before the Co<g ref="char:EOLhyphen"/>venant
+was impoſed; or ſo much as deviſed, or digeſted;</q> all
+<pb n="9" facs="tcp:49382:6"/>
+which were not only begun, but carried to ſome conſiderable
+progreſs before it had its being; how then could theſe be the
+<hi>black ſhadows of its appearing and prevailing in England?</hi>
+            </p>
+            <p>Some have obſerved, that from the time of the taking of the
+Covenant, ſucceſs fell on the ſide of the Parliament, and
+things did thenceforward grow into a tendency to peace, and
+reſted not untill it effected the Reſolves that <hi>His Majeſties
+Conceſſions were ſatisfactory and ſufficient ground of peace:</hi> And
+here let it be noted that it was ſo far from being <hi>watered with
+the King's blood,</hi> that when the debate (relating to His Ma<g ref="char:EOLhyphen"/>jeſty)
+engaged the Conteſts in the Houſe, which run the Ar<g ref="char:EOLhyphen"/>mies
+on thoſe high inſolencies againſt the Parliament, as to
+pull out violently 120. Members, who in <hi>conſcience of the Co<g ref="char:EOLhyphen"/>venant,</hi>
+did purſue and ſtruggle for His Majeſties <hi>Reſtitution
+with honour and happineſſe:</hi>
+               <note place="margin">Covenant con<g ref="char:EOLhyphen"/>teſt againſt the King's death.</note> And the Covenant was by that
+perfidious pack openly declared uſeleſs, <hi>an Almanack out of
+date,</hi> and violated with the higheſt impiety imaginable, to
+make way to that execrable murther of His moſt Sacred Maje<g ref="char:EOLhyphen"/>ſty:
+Nay Sir, can the <hi>clamours of the Covenant</hi> which were
+ſo loud in Preſs and Pulpit, by the Miniſters of <hi>London</hi> in their
+<hi>Repreſentation to the Armies at Saint</hi> Albans (before they per<g ref="char:EOLhyphen"/>petrated
+their horrid deſignes) in their publick <hi>Vindication</hi>
+Printed with their names ſubſcribed, witneſſing to the World
+the inconſiſtency of that <hi>Barbarous proceeding</hi> with the Solemn
+League and Covenant, be ſo far out of the Doctor's remem<g ref="char:EOLhyphen"/>brance,
+as to charge the Covenant (ſo Eminently approved
+<hi>the pillar of witneſs</hi> againſt it) to have been the <hi>Rock of the
+King's ſhipwrack,</hi> and <hi>watered with his blood:</hi> Your Caſuiſt
+was willing to have all the world to know<note n="*" place="margin">Reprinting his own proteſt againſt it.</note> his innocency as
+to that inhumane wickedneſs; methinks Sir, he ſhould not quite
+over-look others no leſs innocent than himſelf.</p>
+            <p>
+               <hi>Moreover Sir, many that are no</hi> Rigid Bigots, or virulent
+ſpirits,<note place="margin">The more like<g ref="char:EOLhyphen"/>ly cauſe of our late confuſions.</note> 
+               <hi>and have conſidered the concurrence of affairs in this
+Church and Kingdom, think, that without breach of charity
+or ſobriety, they may conclude the</hi> arrogancy of Prelates, the
+alterations of publi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k worſhip, the innovated Ceremonies and
+Superſtitions, the Oath (with its <hi>etcaetera)</hi> binding to Cano<g ref="char:EOLhyphen"/>nical
+obedience, the excommunications, baniſhments, ſtigmati<g ref="char:EOLhyphen"/>zing,
+Confiſcations, impriſonments, and high Commiſſion-Cen<g ref="char:EOLhyphen"/>ſures
+<pb n="10" facs="tcp:49382:7"/>
+againſt pious Non-conformists, with the ſilencing and ſu<g ref="char:EOLhyphen"/>ſpending painful, powerful, and pious Preachers, with the
+Arbitrary, Illegal impoſition of the new Service-Book in Scot<g ref="char:EOLhyphen"/>land,
+<hi>look much more like the natural parent, and proper
+cauſe of our late Confuſions, Commotions, War, and Blood<g ref="char:EOLhyphen"/>ſhed,
+then doth the</hi> Solemn League and Covenant; <hi>but I in<g ref="char:EOLhyphen"/>tend
+not to retort or recriminate.</hi>
+            </p>
+            <p>I ſhall Sir, leave wiſe men to judge, how unlikely a courſe it
+is, by ſuch <hi>unadviſed expreſſions,</hi> to ſatisfie conſcience;
+which is ſo tender and tickle, that all offences ſhould be avoid<g ref="char:EOLhyphen"/>ed;
+paſſion is not only a perturbation to the mind, but alſo a
+prejudice to the underſtanding of what is propounded; the an<g ref="char:EOLhyphen"/>ſwer
+had need be clear, and arguments convincing, that fol<g ref="char:EOLhyphen"/>low
+ſuch provocations unto prejudice; which would make a
+ſober (much more a ſcrupulous) conſcience turn aſide and
+reade no further; when conſcience is ſo tender that reaſon is
+ready to pinch it into paſſion, how little need is there to pro<g ref="char:EOLhyphen"/>voke
+it by Railings and reflexion of juſt miſcarriages? (much
+leſs unjuſt calumnies) Though Ironies and Satyrs may become
+Oratours in reproof; they beſeem not Caſuiſts in the reſolution
+of conſcience-doubts.</p>
+            <p>But I proceed to conſider his anſwer and Arguments,<note place="margin">The imbecilli<g ref="char:EOLhyphen"/>ty of his anſwer and arguments the third Rock of conſcience-reſolution.</note> purpo<g ref="char:EOLhyphen"/>ſing,
+by Gods grace, to yield to the power of Reaſon that is
+in them, though they come under ſo great diſadvantages as have
+been noted.</p>
+            <p>His Anſwer is as himſelf ſuggeſteth, double, indirect, and
+direct.</p>
+            <p>His firſt Anſwer is indirect, an oblique ſtroak at the whole
+body of the Covenant,<note place="margin">His indirect anſwer conſi<g ref="char:EOLhyphen"/>dered.</note> which work, how prudently it is under<g ref="char:EOLhyphen"/>taken,
+conſidering the univerſal obligation of the Covenant
+on all men f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om His Sacred Majeſty, to the meaneſt Subject,
+let wiſe men judge? and how proper to him; who (if my in<g ref="char:EOLhyphen"/>formation
+faile not) is himſelf engaged in it. It is indeed a
+notable piece of policy under pretence of <hi>Reconciling the Co<g ref="char:EOLhyphen"/>venant
+in one Article to Epiſcopacy,</hi> to invalidate the whole,
+and expoſe it to vulgar contempt; but if it be ſinful, let it go:
+His Rhetorick is Angelical, but let us try the ſtrength of his
+Reaſons, unto the looſing of St. <hi>Peters</hi> bonds.</p>
+            <p>
+               <pb n="11" facs="tcp:49382:7"/>
+The main ſtrength of what he doth ſuggeſt againſt the Cove<g ref="char:EOLhyphen"/>nant,<note place="margin">The general ſcope of his ar<g ref="char:EOLhyphen"/>guments.</note>
+lieth in the <hi>miſcarried Circumſtances</hi> which do relate
+unto the impoſing, and taking of it; <hi>(viz.)</hi> its <hi>defect</hi> in point
+if impoſing power; the <hi>terrour and tumults</hi> with which it was
+enforced; the <hi>policy and humour</hi> from whence it did ariſe;
+and the <hi>novel<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y or unacquaintedneſſe</hi> of it as to our Engliſh
+Laws and Conſtitutions, or the like: Unto all which I ſhall
+only deſire the Dr. on ſerious and ſecond thoughts, to give a
+candid, clear, rational, and Scriptural reſolve, to this general
+caſe of conſcience; <hi>(viz.)</hi> if an Oath, Vow, or Covenant,
+containing in it matter <hi>good and lawful</hi> (though not neceſſary
+and poſitive duty) be impoſed by <hi>fraude</hi> (as was that of the
+<hi>Gibeonites)</hi> or <hi>force, and factions, Army, and tumults</hi> (as
+that of <hi>Zedekiah</hi> to <hi>Nebuchadnezzar)</hi> without any <hi>formal
+authority,</hi> other than a mans or peoples own voluntary Act and
+ſubmiſſion, which is new unto, and <hi>unacquainted</hi> with the
+Laws and Conſtitutions accuſtomed in the place, and to the
+people, be by reaſon of any, or all theſe miſcarried Circumſtan<g ref="char:EOLhyphen"/>ces,
+<hi>void and null?</hi> I am much miſtaken if he croſs not the
+common reſolution of Divines and Caſuiſts, if he conclude
+the affirmative; but let us conſider his ſuggeſtions ſingly, and ſo we
+ſhall beſt try their ſtrength.</p>
+            <p>And his firſt on-ſet begins with an <hi>I might ſhrewdly batter
+the Covenant,</hi>
+               <note place="margin">Firſt argument, the Covenants defectiveneſs as to authority. <hi>page</hi> 6.</note> and ſo he aſſaults it with that, which (I muſt
+conſeſs) is indeed a battering Ram; and being admitted, will
+endanger to beat down all that hath been done in this King<g ref="char:EOLhyphen"/>dom
+ſince 1641. arraigning, cenſuring, and condemning all the
+proceedings of the two Houſes of Parliament; in which, I ſhall
+leave his prudence and diſcretion to be judged, by ſuch, as are
+ſenſible, how far His Majeſties Honour, the Kingdoms ſatiſ<g ref="char:EOLhyphen"/>faction,
+and eſtabliſhment in the deſired peace, is endangered
+by ſo much as a diſpute thereof: But the ſtrength of it lieth in
+this, the <hi>def<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctiveneſs</hi> of (and ſo the invalidity of the Covenant)
+<hi>as to any lawful, conſtant, or compleat authority; capable to binde
+the Sub<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ects, and people of</hi> England, <hi>in any Court of Con<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cience
+or Judicature, in which, nothing can have any permanent bond,
+or tie in Law, except Gods Word; as the vow of a ſervant, ſon,
+daughter or wife, &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:49382:8"/>
+This I muſt confeſs is a fierce aſſault, and ſpecious argument;
+yet methinks I finde a Covenanter fortified againſt its force, by
+the Wool-ſacks of theſe conſiderations.</p>
+            <p>Firſt,<note place="margin">Anſwer to it.</note> The <hi>The two Houſes of Parliament</hi> (and thoſe two
+had more than ordinary power) <hi>are co-ordinate, and ſharers in
+the Legiſlation of</hi> England; and ſo a <hi>conſtant, lawful autho<g ref="char:EOLhyphen"/>rity:</hi>
+It is Sir, worth you obſervation, how warily in <hi>p.</hi> 18.
+your Caſuiſt binds the King, to protect and preſerve his <hi>Epiſ<g ref="char:EOLhyphen"/>copacy,</hi>
+but barres His change of it, without the counſel
+and deſire of the two Houſes whom he judgeth Propitious
+to it.</p>
+            <p>Secondly. <hi>This Covenant was ordered by the Parliament du<g ref="char:EOLhyphen"/>ring
+their Seſſion:</hi> And although I will not determine, that
+an Order or Ordinance of one, or both Houſes, can have the
+force, and <hi>permanent tie of a law</hi> (which yet among us will
+admit a diſpute by the ableſt Lawyers, and many purchaſers will
+plead for with vigour) yet I think, it will not be ordinarily de<g ref="char:EOLhyphen"/>nied,
+that it may lay the Subjects under a <hi>permanent bond;</hi> and
+I conceive, theſe are terms very different; that is a <hi>bond</hi> on
+Conſcience, which is not a <hi>Law</hi> and <hi>Tie</hi> in Judicature: Or<g ref="char:EOLhyphen"/>ders
+of Parliament, directing an Act preſently to be executed,
+will not I hope be denied obedience; or the execution be voi<g ref="char:EOLhyphen"/>ded
+by the after-diſſolution of it, eſpecially where it is in its
+own nature permanent and abiding. An <hi>Oath</hi> is in it ſelf, <hi>na<g ref="char:EOLhyphen"/>turâ Rei,</hi> a permanent bond; once laid it ever binds; a Par<g ref="char:EOLhyphen"/>liament
+are a power ſufficiently compleat to impoſe and enjoyn
+it; if they ſee cauſe to bring a Colledge or Corporation under
+any ſpecial Oath, by an Order during their Seſſion, I hope no
+Engliſhman will queſtion their Authority; nor Divine deny the
+Obligation of the Oath; nor the one or other determine
+this tie to be diſcharged, when the Parliament is diſſol<g ref="char:EOLhyphen"/>ved.</p>
+            <p>Thirdly, <hi>The ſuppoſed defect hath been ſince ſupplied;</hi> and
+His Majeſties conſent or aſſent fully expreſſed, by <hi>His ſwear<g ref="char:EOLhyphen"/>ing</hi>
+the ſame Solemn League, and by Oath <hi>promiſing</hi> His Royal
+aſſent to all Acts and Ordinances enjoyning the ſame; and by
+His Royal Declaration of the 16<hi>
+                  <hi rend="sup">th</hi>
+               </hi> of <hi>Auguſt,</hi> 1650. declaring
+His full perſwaſion of the juſtice and equity of every the Heads
+and Articles of the <hi>Solemn League and Covenant;</hi> and ſo far,
+<pb n="13" facs="tcp:49382:8"/>
+juſtifying the taking of it by His Subjects, that He graciouſly
+profeſſeth to know no <hi>friends but the friends of the Covenant;
+and no enemies but the enemies of the Covenant:</hi> Hereby,
+whatever defect was in the firſt impoſing of it, is fully made up
+to faſten it on the people now it is taken; ſo that by reaſon of
+this ſubſequent Act, I may ſay<g ref="char:punc">▪</g> if by <hi>Moſes</hi> he will be judged,
+to <hi>Moſes</hi> he ſhall go; and admitting his parallel (which
+ſome doubt, will not in this caſe ſquare) if the <hi>Father, Maſter,
+Husband, in the day that he heareth the vow of the Wife,
+Child, or Servant, and hold his peace,</hi> (contradict it not)
+much more if He <hi>juſtifie, allow, and commendit,</hi> as His moſt
+Sacred Majeſty, hath done, on moſt ſerious and deliberate though
+in a moſt publique and ſolemn Declaration, it ſhall ſtand, and
+be eſtabliſhed.</p>
+            <p>But Sir, ſuppoſe the Dr. can pull down this defence, and
+manage his battery, ſo as to make a breach on the Covenant;
+yet before he enter, I muſt ſound a parlee with him; and de<g ref="char:EOLhyphen"/>ſire
+him to tell us whether the <hi>quod fieri non debuit, factum va<g ref="char:EOLhyphen"/>let,</hi>
+pleaded to defend the wanton Baptiſme of Children, and
+haſty Baptiſme of Women, be not more really pleadable in
+our caſe: To make the worſt of it, a tumultuous Aſſembly con<g ref="char:EOLhyphen"/>vene,
+and come before us with ſword and Scepter, and ſay
+they are a Parliament, and have lawful, conſtant, and com<g ref="char:EOLhyphen"/>pleat
+authority, to command us; and therefore will put an
+Oath and Covenant upon us; and ſilly, inconſiderate we, are
+not ſo well skill'd in politicks, or acquainted with the conſtitu<g ref="char:EOLhyphen"/>tions
+of our Countrey, to detect their fallacy, but think all
+authority is within thoſe walls, and obedience muſt be yielded
+to what is there commanded, and ſo we are beguiled into the
+Oath; May we thence cry out A Cheat? and ſo caſt off the
+Covenant? and conclude it cannot binde? I doubt
+ſuch Doctrine embraced, will expoſe us to a three yeares
+Famine.</p>
+            <p>His firſt battery was ſo fiercely made, that it recoileth with a
+more than ordinary Rumour; and makes him enforce it, <hi>pa.</hi> 6.
+with an <hi>I might Eccho</hi> (as indeed he hath, for I find no cer<g ref="char:EOLhyphen"/>tain
+ſound in what he ſaith) <hi>the violence and noiſe of thoſe times
+in which it was hatched in</hi> England, <hi>and brought forth by
+<pb n="14" facs="tcp:49382:9"/>
+the midwifry of tumults, and Armies, of engaged, yea, enra<g ref="char:EOLhyphen"/>ged
+parties and factions;</hi> All which, it is well known, was
+not ſo great or loud, but that the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament,
+the Commiſſioners of the Kirk and Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+               <note place="margin">Violence of times.</note>
+with an Aſſembly of Grave and Learned Divines, did
+after Solemn Humiliation, and ſeeking God, ſerious conſul<g ref="char:EOLhyphen"/>tation,
+and ſober debates, digeſt and determine the Cove<g ref="char:EOLhyphen"/>nant;
+and both matter and form doth beſpeak it to have been
+no raſh or prepoſterous product of fancy: But ſuppoſe the
+worſt; will the violence of the times, put a nullity and non-obligation
+on the Oath? how comes the ſentence to be ſo ſe<g ref="char:EOLhyphen"/>vere
+againſt <hi>Zedekiah? He hath despiſed the Oath, and bro<g ref="char:EOLhyphen"/>ken
+the Covenant, he ſhall not eſcape, Ezek.</hi> 17. 18. Was
+not this Oath extorted by Armies without, and tumults with<g ref="char:EOLhyphen"/>in?
+and yet is it ſo auſterely binding? whatever Turks, Pa<g ref="char:EOLhyphen"/>piſts,
+or Politicians ſay, ſhall a Chriſtian and Proteſtant ſuggeſt
+a nullity of the Oath, becauſe of the violence of the times in
+which it was taken?</p>
+            <p>His next ſuggeſtion is a ſound no leſs uncertain; he ſaith he
+might urge <hi>the novelty and partiality of the Covenant as to the
+Engliſh Laws and Genius:</hi>
+               <note place="margin">His third indi<g ref="char:EOLhyphen"/>rect anſwer to the Covenant.</note> That he might, and might when
+he hath urged it, explain it; for the matter of it is neither <hi>new,</hi>
+nor <hi>partial;</hi> it hath been often heard, and endeavoured in <hi>En<g ref="char:EOLhyphen"/>gland;</hi>
+in the very point of <hi>Epiſcopacy,</hi> the removal of <hi>En<g ref="char:EOLhyphen"/>glands</hi>
+Hierarchy hath been ſued for from<note n="*" place="margin">Wi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs Dr. <hi>White</hi>'s Epiſtle to <hi>Lawde</hi> be<g ref="char:EOLhyphen"/>fore his Trea<g ref="char:EOLhyphen"/>tiſe of the Sab<g ref="char:EOLhyphen"/>bath.</note> Queen <hi>Elizabeths</hi>
+time, downward unto this day: and the Covenant ſecures all
+Intereſts without partiality; his ſurmiſe of <hi>forraign influence,
+inv<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntion, and obtruſion,</hi> calls for proof; and then it will but
+little relieve him; for an Oath enforced by forraign Con<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ueſt,
+or couzenage; new to the Nation, and contrary to its Laws,
+binds the conſcience; and the ſuppoſed <hi>contrariety</hi> of the Law,
+is of no force to them, who conclude a power in the Parlia<g ref="char:EOLhyphen"/>ment
+to put a period to thoſe Laws; and a Solemn Oath or
+Covenant ſworne by the Legiſlators, and by them put on the
+people, ſeem to be the moſt full diſcharge of all ſeeming-contrary
+Laws that can be imagined; eſpecially when the Royal aſſent is
+publiquely given to it.<note place="margin">His fourth ſug<g ref="char:EOLhyphen"/>geſtion in his indirect anſwer</note>
+            </p>
+            <p>He proceeds, <hi>It might ſeem odious, to reflect
+upon the Covenant, as to the effects, and unbleſt conſe<g ref="char:EOLhyphen"/>quences,
+which like black ſhadows, have attended its appea<g ref="char:EOLhyphen"/>ring
+<pb n="15" facs="tcp:49382:9"/>
+and prevailing in</hi> England; <hi>what havocks improſperities,
+&amp;c.</hi> as before we have noted: This <hi>Reflection</hi> I confeſs,
+cannot but ſeem <hi>odious;</hi> but not to the Covenant, unleſs theſe
+ſad effects, and unbleſt conſequences, be found to attend it,
+as its <hi>proper brood and natural iſſue,</hi> not accidental ſequels;
+produced by its genuine tendency to them, not by wicked
+mens reluctancy to order and piety, or perfidy as to what
+they had covenanted; but the <hi>odium</hi> will of its own accord re<g ref="char:EOLhyphen"/>flect
+on him who is <hi>a Covenanter,</hi> and yet expoſeth his So<g ref="char:EOLhyphen"/>lemn
+League and Covenant to <hi>vulgar ſcorn and contempt;</hi>
+who is a man of <hi>juſtice and ſobriety,</hi> and yet <hi>calumniateth</hi> the
+Covenant with thoſe ſad effects which had their being and pro<g ref="char:EOLhyphen"/>greſs
+before the Covenant it ſelf. Sure he dreams, that ſeeth
+the ſhadow, before the ſubſtance is in being; and who is a <hi>Di<g ref="char:EOLhyphen"/>vine</hi>
+deteſting the plea of <hi>ſucceſs</hi> as the Judge or Rule of any
+cauſe, and yet maketh it the meaſure of the Solemn League and
+Covenant.</p>
+            <p>
+               <hi>Nor can his next ſuggeſtion be conſidered unto the encreaſe
+of his credit;</hi>
+               <note place="margin">5th Suggeſtion in his indirect anſwer. <hi>p.</hi> 7.</note> 
+               <hi>in which he tells us,</hi> He will not inſiſt on the
+bafflings of the Covenant, before it was adult or many yeares
+old; how it was ſoon made a Nehuſhtan, and reduced to no<g ref="char:EOLhyphen"/>thing,
+by counter and croſs engagements after it had ſerved as
+one of the great Rocks for the King's ſhipwrack, and been wa<g ref="char:EOLhyphen"/>ter'd
+with the King's blood, &amp;c.</p>
+            <p>Truly Sir, had I been at your Doctors elbow when he wrote
+this, I would have adviſed him to have been ſo far from <hi>inſiſting,</hi>
+that he ſhould not have <hi>inſerted</hi> this, which he calls <hi>Baffling of the
+Covenant:</hi> For Sir, will not every one cry ſhame, that ſhall
+hear him ſay the Covenant was <hi>one of the great Rocks which
+ſhipwrackt the King?</hi> and the <hi>Covenant was watered with the
+King's blood?</hi> Who can conſider the <hi>King's reluctancy to the
+Covenant</hi> was not ſo much as inſerted into His charge, nor once
+taken notice of by <hi>Bradſhaw,</hi> amongſt thoſe many reaſons by
+him produced, to juſtifie that moſt execrable Sentence pro<g ref="char:EOLhyphen"/>nounced
+againſt Him? Who obſerveth the <hi>Reſolves of the Par<g ref="char:EOLhyphen"/>liament,</hi>
+that His Majeſties Conceſſions (though He refuſed the
+Covenant) were ſatisfactory? and that untill the faithful Co<g ref="char:EOLhyphen"/>venanters
+were pulled out of the Houſe by military violence,
+and the Band of the Covenant broken by the raging luſts of
+<pb n="16" facs="tcp:49382:10"/>
+ſome proud perjured Apoſtates, there neither was nor could
+be the leaſt proceeding againſt His Moſt Sacred Majeſty, and yet
+conclude Him ſhipwrackt by the Covenant? becauſe ſome that
+had taken the Covenant did perpetrate that wickedneſs, will
+any Rules of Juſtice or Religion charge it on the Covenant?
+becauſe the Covenant was violated by force, ſuppreſſed by pow<g ref="char:EOLhyphen"/>er,
+and ſlighted by policy, was it therefore vacated? when?
+by whom? or with what Arguments of Right reaſon, or Reli<g ref="char:EOLhyphen"/>gion,
+was it ever bafled? was not its vigour made viſible by
+the <hi>London</hi> Miniſters <hi>Repreſentation and <g ref="char:V">Ʋ</g>indication?</hi> and its
+bond on conſcience made legible by the <hi>Lancaſhire and Che<g ref="char:EOLhyphen"/>ſhire
+plea for Non-ſubſcribers?</hi> and the <hi>teſtimonies</hi> of the Mi<g ref="char:EOLhyphen"/>niſters
+in the ſeveral Counties of <hi>England,</hi> publiſhed with their
+names ſubſcribed, and indeed Imprinted by the <hi>invaſion and di<g ref="char:EOLhyphen"/>vaſtation</hi>
+of <hi>Scotland?</hi> the <hi>Sequeſtrations and Sufferings</hi> even
+unto impriſonment and death of many in <hi>England,</hi> purſuing
+His Majeſties reſtitution on the account of the Covenant? How
+can the Doctor confeſs, <hi>Doubtleſſe the ſence of the Covenant
+hath lately quickned many mens conſciences in their allegiance
+to the King, ſo as to bring Him (as</hi> David) <hi>home with in<g ref="char:EOLhyphen"/>finite
+joy and triumph, page</hi> 25. and yet here complain that it
+was ſo eaſily vacated in point of its <hi>expreſs Loyalty for the
+King's preſervation?</hi> If it were ever vacated, when, or how
+was it renewed and re-inforced? If I may ſpeak it without va<g ref="char:EOLhyphen"/>nity,
+had not the firm bond of the Covenant vigorouſly con<g ref="char:EOLhyphen"/>tended
+in the point of Loyalty, againſt the violent powers
+which bare it down, His late Majeſties Martyrdom had not
+broken forth with ſuch luſtre; not His now Majeſty (whom
+God long preſerve) been reſtored to that eſtate of Honour in
+which we now enjoy Him; ſo that the Antecedent of this ſug<g ref="char:EOLhyphen"/>geſted
+Argument will be moſt poſitively denied.</p>
+            <p>But if we ſhould admit it, I cannot but wonder to hear a <hi>Di<g ref="char:EOLhyphen"/>vine</hi>
+ſay and inferre upon it; <hi>If it were ſo eaſily vacated in point
+of Loyalty, I do not ſee, how it can be ſo binding againſt E<g ref="char:EOLhyphen"/>piſcopacy:</hi>
+I think it to be no good Logick, and worſe Divini<g ref="char:EOLhyphen"/>ty,
+from ſome mens <hi>evaſion, and violation,</hi> to infer a <hi>vaca<g ref="char:EOLhyphen"/>tion
+and non-obligation;</hi> or from a <hi>vacation</hi> of it in one point,
+to infer its <hi>non-obligation</hi> as to others; ſin, indeed is apt, but
+it muſt not be allowed to engender ſin; by Gods grace gradu<g ref="char:EOLhyphen"/>al
+<pb n="17" facs="tcp:49382:10"/>
+violation ſhall not effect in me a total rejection of the Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>His ſixth ſuggeſtion ſeems indeed to be of more force than the
+former <hi>(viz.</hi>
+               <note place="margin">6th Suggeſti<g ref="char:EOLhyphen"/>on in his indi<g ref="char:EOLhyphen"/>rect anſwer. <hi>p.</hi> 8.</note>) <hi>The Covenant</hi> (if ſo interpreted) muſt needs
+grate <hi>ſore upon, and pierce to the quick thoſe former lawful
+Oaths, which had prepoſſeſſed the ſouls and conſciences of most
+of us in</hi> England; <hi>not only of Subjects, as thoſe of Allegiance
+and Supremacy, beſides that of Miniſterial, Canonical obedi<g ref="char:EOLhyphen"/>ence
+to our lawful Superiours, but even the conſcience of the
+late King, as bound by his Coronation-Oath, &amp;c. From which
+Oaths, as we know no abſolution, ſo neither can there be any
+ſuperfetation of ſuch a contradictory vow and Covenant with<g ref="char:EOLhyphen"/>out
+apparent perjury:</hi> To all which I offer to conſideration,
+That the diſſatisfaction of His late Majeſty of Bleſſed Memory,
+(and in nothing <hi>more bleſſed,</hi> than in the conſcience He made
+of the Oath of God upon Him, and the charge He hath left His
+now <hi>glorious Majeſty,</hi> That <hi>if God brought Him to His own
+Right on hard conditions, He ſhould be careful to performe
+what He ſhould promiſe)</hi> that is now beyond diſpute; and His
+Majeſty that now is, not only free from thoſe Fetters which re<g ref="char:EOLhyphen"/>ſtrained
+His Royal Father, but alſo is engaged in the ſame
+League and Covenant, and this ſuppoſed contradiction caſt out
+of doors; and as to the contradiction of the Covenant to the
+Oaths of <hi>Allegiance and Supremacy, non conſtat,</hi> it appeares
+not; nor would it ever (as it hath done) have quickned the
+hearts of ſome, to ſuffer for, and to ſtruggle under their Loy<g ref="char:EOLhyphen"/>alty,
+untill His Majeſties Honourable Reſtitution, if it were ſo
+repugnant to them: Let its contradiction in this point be no<g ref="char:EOLhyphen"/>ted,
+and we ſhall ſpeak to it: and as to that of Canonical obe<g ref="char:EOLhyphen"/>dience
+to our lawful Superiors, its contradiction is ſuggeſted
+with an <hi>If it be ſo interpreted;</hi> Let the interpretation be clea<g ref="char:EOLhyphen"/>red,
+before the contradiction be concluded and argued; for if
+that Oath did bind an obedience to <hi>Biſhops</hi> as inveſted with <hi>pa<g ref="char:EOLhyphen"/>ternal
+authority,</hi> and as a <hi>diſtinct and ſuperior order of Mini<g ref="char:EOLhyphen"/>ſtry,</hi>
+and its unexplained <hi>etcaetera</hi> included more; <hi>a grating
+upon, and piercing to the quick this Oath,</hi> was no other but
+duty; and then the Argument is of no more force, ſave to ſpeak
+the fretting of their ſpirits, who fooliſhly ſware they know not
+what, and now deſire to maintain it, more for fancy, than
+<pb n="18" facs="tcp:49382:11"/>
+conſcience; for it is not yet proved that ſuch are lawful ſuperiors
+in Church or State,</p>
+            <p>His ſeventh Anſwer or Argument, is <hi>ab incommodo,</hi> the
+inconvenience (which muſt be very great and viſible if it diſ<g ref="char:EOLhyphen"/>charge
+an Oath) And here he tells us, <hi>It muſt needs run us
+upon a great Rock of not only Novelty but Schiſme,</hi> &amp;c. un<g ref="char:EOLhyphen"/>to
+which I deſire Sir, you will pleaſe to obſerve</p>
+            <p>1. The loſs we are at by the uncertainty of the object; he
+urgeth this Argument with his univerſal diſcretive, <hi>all Epiſco<g ref="char:EOLhyphen"/>pal
+order and government.</hi> We muſt Sir, have a clear Notion
+of Epiſcopal Order and Government, before we can with care
+ſhun the Schiſm; nor is it explained to us by the general terms
+of <hi>Practice and Judgement of the Catholick Church in all ages
+and places till of later dayes;</hi> for we know, that <hi>ſuperiority
+and paternal power over other Biſhops and Miniſters</hi> did too
+ſoon appear, and too univerſally ſpread after the Apoſtles days,
+unto the advancement of the man of ſin, though it prevailed not
+without great reluctancy, and its removal hath been aimed at and
+endeavored by the Reformation.</p>
+            <p>Again, muſt we take it for granted, that <hi>conformity</hi> is eſſen<g ref="char:EOLhyphen"/>tial
+to communion with the Church? and <hi>agreement in diſci<g ref="char:EOLhyphen"/>pline</hi>
+unavoidally neceſſary to <hi>union?</hi> Certai<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly if ſo, we muſt
+make the very form of Diſcipline an Article of our Creed:
+And truly Sir, the <hi>jus divinum,</hi> or Apoſtolical inſtitution of
+the form he ſeems to plead for, lieth too much in the dark for
+ſuch a concluſion; and therefore the moſt himſelf tells us of, it
+is, That it looks like <hi>an immediate inſtitution of Chriſt, prece<g ref="char:EOLhyphen"/>ptive
+and explicite, or tacite and exemplary,</hi> pag. 13. <hi>but he
+knows not whether;</hi> yet well knows, <hi>ſimile non est idem;</hi> and
+therefore he here calls it but <hi>an ancient tradition and univerſal
+obſervation;</hi> and then the 34<hi>th</hi> Article of the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi>
+ſecureth us from this Rock of Schiſme, whilſt it teach<g ref="char:EOLhyphen"/>eth
+us,<note place="margin">39 Articles of Religion in the Convoca<g ref="char:EOLhyphen"/>tion, held 1562.</note> 
+               <hi>It is not neceſſary that traditions be in all places one
+and utterly alike,</hi> &amp;c. In Politicks (we well know) diffe<g ref="char:EOLhyphen"/>rent
+forms of Adminiſtration are conſiſtent with union in the
+ſame Kingdome, and Communion in the ſame Government;
+It is no ſtrange thing to ſee Corporations in <hi>England</hi> governed
+by their twelve Jurors, without a Mayor and Court of Alder<g ref="char:EOLhyphen"/>men,
+but it would be thought very ſtrange from thence to
+<pb n="19" facs="tcp:49382:11"/>
+charge them with ſedition! and it muſt be a <hi>jus divinum,</hi> and
+immediate inſtitution, not <hi>Apoſtolical tradition, or Univerſal
+obſervation,</hi> muſt bar us from the priviledges, any more than the
+dictated properties common to all policy.</p>
+            <p>Moreover Sir, if this form of Diſcipline <hi>(which he noteth
+ſome few Reformed Churches of later dayes want, though they
+do not contemne, but approve and venerate in others)</hi> be ſo ne<g ref="char:EOLhyphen"/>ceſſary
+a Nerve, that the abjuration and excluſion of it runs us
+on ſuch a Rock of Schiſme, I ſee not how thoſe Churches
+(though their want be through neceſſity of times, and diſtreſs
+of affairs, put upon them) can be owned in the union of the
+Catholique Church; for eſſentials unto union muſt not only
+be reverenced in others, but enjoyed by themſelves.</p>
+            <p>It is Sir, worth enquiry, what he means by the <hi>Catholique
+Church;</hi> for beſides the vulgar appropriation of it to <hi>Rome,</hi> and
+affection our late Prelates had to that term, his Note <hi>That the
+aboliſhing of Epiſcopacy, is no ſmall wall of partition newly
+ſet up to keep all Papists from due Reformation,</hi> makes me
+jealous the <hi>Caſſandrian</hi> accommodation is yet in the Biſhops
+intention and endeavour; upon which they would not put that
+reproach, ſcandal, ſcruple, or affront, as to be without Bi<g ref="char:EOLhyphen"/>ſhops
+of <hi>paternal authority;</hi> but if ſo, happy is that Church
+whoſe Reformation carrieth them furtheſt off <hi>Romes</hi> Superſtiti<g ref="char:EOLhyphen"/>on,
+in diſcipline, and worſhip, as well as doctrine.</p>
+            <p>His eighth Anſwer or Suggeſtion is a Rhetorical <hi>ſwada,</hi> and
+inſinuating plea, which hath wholly loſt its force by the uncer<g ref="char:EOLhyphen"/>tainty
+of the object: If <hi>conſcience be erroneous,</hi> we ſhall eaſily
+grant that it is <hi>equal, and ingenuous, Loyal, and Religious, to
+red<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce and confine it;</hi>
+               <note place="margin">Erroneous con<g ref="char:EOLhyphen"/>ſcience muſt be rectified.</note> which yet muſt not, and will not be ſtrai<g ref="char:EOLhyphen"/>ter
+than the proper and genuine ſence of the Covenant will
+admit; but as for that <hi>extravagant, diſloyal, unlawful, enor<g ref="char:EOLhyphen"/>mous,
+and Schiſmatical ſence,</hi> againſt which he declaimes,
+in which <hi>it could neither be lawfully taken, nor honeſtly kept;</hi>
+it muſt be determined by an Explication of his <hi>All Epiſcopacy,</hi>
+and full demonſtration of a ſence ſo qualified, before there can
+be any more ſtrength in his Rhetorick, than in his Reaſons: I
+muſt Sir, be free to tell him, the Covenant doth expreſſely binde a<g ref="char:EOLhyphen"/>gainſt
+the Fabrick, and very form of the late Hierarchy in <hi>En<g ref="char:EOLhyphen"/>gland,</hi>
+not its <hi>abuſes, excceſſes, or defects</hi> only: though not
+<pb n="20" facs="tcp:49382:12"/>
+againſt the uſe of any thing which was good, and fit to be uſed
+in the ſucceeding form to be eſtabliſhed; nor do I underſtand
+it to be ſuch an <hi>unreaſonable and irreligious (Ametrie) tran<g ref="char:EOLhyphen"/>ſport
+for men to Covenant againſt all the right uſe of things
+that are good</hi> (but not neceſſary) <hi>becauſe of the abuſe incident
+to them,</hi> as he doth ſuggeſt, though the Covenant is
+not guilty of ſuch obligation: But more of this in his direct
+Anſwer.</p>
+            <p>Having aſſaulted the Covenant with his fierce battery, and
+alarummed it with his frightful Ecchoes,<note place="margin">The Covenant authority pro<g ref="char:EOLhyphen"/>ved; not only pretended by examples in the old Teſtament.</note> he proceeds to <hi>level to
+the ground all thoſe faire, but fallacious pretences</hi> (as he deems
+them) <hi>drawn to fortifie the Covenant from Scriptures exam<g ref="char:EOLhyphen"/>ples,
+wherein the Jewes ſometimes ſolemnly renewed Covenant
+with God, &amp;c.</hi> And the main and only Morterpiece he lets
+flie, is, That <hi>it was that expreſs Covenant which God himſelf
+had firſt made with them in</hi> Horeb <hi>and Mount</hi> Sinai, <hi>punctu<g ref="char:EOLhyphen"/>ally
+preſcribed by God to</hi> Moſes, <hi>and by</hi> Moſes <hi>(as their Su<g ref="char:EOLhyphen"/>pream
+Governour or King) impoſed upon them; this they ſome<g ref="char:EOLhyphen"/>time
+renewed after they had broken it by their Apoſtacy to
+falſe and ſtrange gods:</hi> Unto the enforcement whereof, we
+muſt deſire the Doctor to demonſtrate, That the Law of <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi>
+or Covenant in <hi>Horeb</hi> was not only the Rule and Dictate
+of what matter they ſhould Covenant, but the <hi>expreſs Cove<g ref="char:EOLhyphen"/>nant</hi>
+which was, or did conſiſt in the exact recital, and Repe<g ref="char:EOLhyphen"/>tition
+of that Law of the ten Commandements, as the very
+form thereof; ſo as that they never varied or altered it, accor<g ref="char:EOLhyphen"/>ding
+to their ſpecial defections, in the particular points of their
+l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves; and that this was the <hi>formal Covenant</hi> between God and
+the people <hi>in the times of Joſhuah,</hi> and before <hi>Iſraels</hi> defecti<g ref="char:EOLhyphen"/>on
+on from God; or that this was the <hi>Covenant</hi> between God,
+the people, and King, and between the people and their King,
+<hi>in the dayes of Jehoiadah:</hi> Or that this was the expreſs Co<g ref="char:EOLhyphen"/>venant
+made in the point of the <hi>Sabbath,</hi> and the putting a<g ref="char:EOLhyphen"/>way
+<hi>ſtrange wives</hi> in the times of <hi>Nehemiah.</hi> Theſe ſeveral
+occaſions, and ſpecial obligations, do beſpeak them to have
+been <hi>Covenants,</hi> conformed as to the <hi>matter of them,</hi> to ſome
+part of the ten Commandements; but as to their <hi>forme</hi> and
+manner of expreſſion, to have been ſquared by themſelves.</p>
+            <p>
+               <pb n="21" facs="tcp:49382:12"/>
+But whatever was the matter or forme of their Covenant<g ref="char:EOLhyphen"/>ing,
+I imagine it will not be denied, that <hi>the taking or re<g ref="char:EOLhyphen"/>newal
+thereof</hi> was their own political Act, done by their own
+will and power at the time, and on the occaſion their own con<g ref="char:EOLhyphen"/>dition
+did require and dictate; and ſo our <hi>Covenant</hi> (warran<g ref="char:EOLhyphen"/>red
+for matter by the Word of God) is <hi>by their example</hi> juſti<g ref="char:EOLhyphen"/>fied,
+to have been <hi>a pious and prudent action</hi> within our own
+power to performe; though for the <hi>form</hi> of it, it be not any
+<hi>Divine dictate, or Soveraign preſcription,</hi> yet better to be e<g ref="char:EOLhyphen"/>ſteemed,
+<hi>than the petty compoſition of a few politick men:</hi>
+Nor is there any ſtrength in that; <hi>we were not Apoſtatized to
+falſe and ſtrange gods;</hi> unleſs he will affirm no defection ſhort
+of Apoſtacy from the true, to falſe gods, is a ſufficient ground
+or occaſion on which to renew Covenant; which I think nei<g ref="char:EOLhyphen"/>ther
+right reaſon or Religion will allow; ſhall not gradual de<g ref="char:EOLhyphen"/>fections
+be reſtrained, and total Apoſtacy be ſuperſeded by a
+ſeaſonable <hi>Solemne League and Covenant?</hi> Surely then <hi>Jo<g ref="char:EOLhyphen"/>ſhuah</hi>
+was too prepoſterous, in working <hi>Iſrael</hi> into Covenant
+with God, on a jealouſie or rational conjecture of their future
+Apoſtacy; and had <hi>England</hi> no need to Covenant, when they
+were poſting <hi>in doctrine,</hi> eſpecially <hi>in worſhip and diſcipline,</hi>
+to <hi>Romes</hi> Superſtition and Tyrannie? Can any man conſider
+the corruptions continued in <hi>England</hi> ſince the Reformation,
+and ſo defended, that nothing but a ſoveraign Remedy could
+remove them? nay, the very Retrogradations of the Refor<g ref="char:EOLhyphen"/>mation,
+by a return of many expelled Rites, and Prelatical
+power, and ſay, becauſe ſhe <hi>yet owned the true God,</hi> ſhe had
+no need to Covenant? If covenanting be an Act within mans
+own power and choice; and defection from God and his wayes
+inchoated or ſuſpected be a juſt ground and occaſion, <hi>Englands</hi>
+covenanting is fully fortified by Scripture and Reaſon, and the
+pretences thereof no way found fallacious.</p>
+            <p>His laſt Suggeſtion in his indirect Anſwer is of no force; for
+admit that there is <hi>no precept or pattern for ſuch a Covenant in
+all the New Teſtament</hi> (which directs us as Chriſtians, and
+leaveth us to the D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctates of Nature, and diſcoveries of the Old
+Teſtament, in more publique and political Acts which concern
+us as a Kingdome, or Church National) or <hi>in the ſucceeding
+ages of the Church:</hi> Will it therefore follow, that ſuch co<g ref="char:EOLhyphen"/>venanting
+<pb n="22" facs="tcp:49382:13"/>
+is ſinful? the Primitive <hi>Churches</hi> never were of ſuch
+extent in the enjoyment of ſuch power, under ſuch publique
+defections, and in ſuch capacitie of covenanting as we have
+been. Muſt we enquire what hath been done in the Chriſtian
+Churches, to do that and no more, without regard to what
+may be done, the condition of the Church requiring it? may
+not the very <hi>Ligue de Saint in France,</hi> and <hi>Oath et caetera in
+England,</hi> though ſinful in their matter, be good Spurres and
+Directions in Chriſtian-policy? May not the ſame means uſed
+to corroborate impiety, be lawfully and prudentially uſed to
+ſtrengthen true Religion and Reformation? Why may not Po<g ref="char:EOLhyphen"/>piſh
+policy teach Proteſtants to combine by Covenant, as Pro<g ref="char:EOLhyphen"/>teſtant
+piety and prudence did dictate to them a Confirmation
+in Religion by Chatechiſing? Courſes common to men
+are not to be condemned, becauſe uſed by wicked men to wick<g ref="char:EOLhyphen"/>ed
+ends.</p>
+            <p>None Sir, do deny <hi>the Covenant made in Baptiſme to be the
+only new evangelical Covenant tò all Chriſtians, broken by wil<g ref="char:EOLhyphen"/>ful
+and preſumptuous ſins, and renewed by repentance, and the
+participation of the Lords Supper:</hi> But it ſeems unto me a
+ſtrange tranſport of ſo grave and ſerious a Divine, to oppoſe it
+unto the <hi>Solemn League and Covenant (that piece of policy,
+rather than piety,</hi>
+               <note place="margin">Baptiſmal Co<g ref="char:EOLhyphen"/>venant, no bar to the Solemne League and Covenant.</note> as he is pleaſed to term it) The inconſiſten<g ref="char:EOLhyphen"/>cy
+of them I muſt confeſs is not to me viſible; ſure I am Ba<g ref="char:EOLhyphen"/>ptiſmal
+Vows are no bar, but may be provocations to Solemn
+covenanting to and with God; Let the matter of this Cove<g ref="char:EOLhyphen"/>nant
+be exactly ſcanned, and if it be in any one Article found
+repugnant to, or different from the Covenant made in Baptiſm,
+we will renounce the whole: I hope it will not be denyed,
+that Baptized Nations and Churches may (in their publique and
+politique capacities) renew and amplifie that Covenant which
+was made in Baptiſme: And truly Sir, the Solemn League and
+Covenant ſeems to me ſo little to differ from our Baptiſmal
+Covenant, that it is no hard matter to reſolve it into thoſe
+three grand Heads we are (inſtructed) were promiſed in our names
+when we were Baptized; and then all the difference will be in
+this; the Baptiſmal Covenant was perſonal and private; this
+publique and politique.
+<pb n="23" facs="tcp:49382:13"/>
+But I pray let us note his ſpecification of the difference he ſug<g ref="char:EOLhyphen"/>geſteth,
+and the Reaſons of this inconſiſtency he urgeth; which
+he ſuppoſeth to be a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, crying out <hi>How vaſtly different
+from this Sacred covenant this late piece of policy, more than
+piety is; and how little the true Covenant of a Chriſtian binds
+him by his Baptiſme or Repentance, or the Euchariſt againſt all
+Epiſcopal government, I leave all ſober-minded Chriſtians to
+judge.</hi> Truly Sir, his univerſal particle <hi>All,</hi> may make ſome<g ref="char:EOLhyphen"/>thing
+look like <hi>a vaſt difference,</hi> if we could but underſtand the
+ſpecies he would pitch upon, as excepted by his diſcretive
+term; but the uncertainty of the object is that we cannot but
+ſtumble at in all the concluſions of his ſuggeſted anſwers: Me<g ref="char:EOLhyphen"/>thinks
+ſuch an out-cry of <hi>vaſt difference</hi> ſhould have been war<g ref="char:EOLhyphen"/>ranted
+by a clear <hi>antitheſis;</hi> Oppoſites cannot appear but by
+their oppoſition; and yet he ſpecifies no one Article different
+from our Baptiſmal Covenant; but ſophiſtically evades with an
+<hi>How little do Baptiſmerepentance, or the Euchariſt, bind againſt
+all Epiſcopal government:</hi> Theſe may Sir, very little binde a<g ref="char:EOLhyphen"/>gainſt
+it, and yet the Covenant and they be at no <hi>vaſt diffe<g ref="char:EOLhyphen"/>rence;</hi>
+for the queſtion is not, how little the true Covenant
+in them agitated <hi>binds againſt all Epiſcopal government;</hi> but
+how much <hi>it binds to any?</hi> He is the firſt Divine I have found
+to plead our Baptiſme as the bond of Canonical obedience, and
+defence of Epiſcopacy; I never did imagine <hi>Diſcipline and or<g ref="char:EOLhyphen"/>der</hi>
+to be the expreſs poſitive condition of <hi>Baptiſme,</hi> and <hi>the
+Chriſtian-Covenant thereby made qua Chriſtian,</hi> the only new
+Evangelical Covenant; but eſpecially this ſpecies of it, <hi>Epiſco<g ref="char:EOLhyphen"/>pacy.</hi>
+I hope his <hi>jus divinum</hi> will be made as clear as the
+Doctrine of the Trinity, whil'ſt it is and muſt be owned as the
+abſolute condition of <hi>Baptiſme,</hi> and nerve of <hi>union with the
+Church:</hi> Yet Sir, give me leave to tell the Doctor, if the late
+Hierarchy or Epiſcopacy of <hi>England</hi> (which he ſeems to ad<g ref="char:EOLhyphen"/>vance
+as the late <hi>honour of the Miniſtry, and encouragement
+of Learning and Religion)</hi> be (as on an eaſie diſcuſſion it may
+be) found to be <hi>of the pomps and vanities of this wicked
+world;</hi> we are not only a little, but very much bound againſt
+it; for our God-fathers and God-mothers did promiſe in our
+behalf, <hi>That we ſhould forſake them, as the Devil and all
+his works;</hi> and then he may well imagine, all ſober-minded
+<pb n="24" facs="tcp:49382:14"/>
+Chriſtians muſt judge, there is a vaſt difference between <hi>Ba<g ref="char:EOLhyphen"/>ptiſme</hi>
+and ſuch <hi>Epiſcopacy,</hi> and that he is acted with a ſtrong
+zeal that will by our Baptiſme binde unto it, who yet declared
+it to be but a tradition and univerſal obſervation.</p>
+            <p>But he addes a reaſon to enforce it, and that is, <hi>Since both the
+power of ordaining Miniſters, and by them to conſecrate and
+celebrate both Sacraments,</hi>
+               <note place="margin">Of the power of ordination by Biſhops.</note> 
+               <hi>was ever derived from, and by Bi<g ref="char:EOLhyphen"/>ſhops
+of the Church, as the chief Conſervaters, Ciſterns, and
+Conduits of all Eccleſiaſtical authority, and Miniſterial power,
+from the very Apoſtles the firſt Biſhops of the Church,</hi> Acts 1, &amp;c.
+But Sir, is it determined and agreed on without controverſie,
+that the <hi>power of ordination</hi> was ever derived <hi>by and from Bi<g ref="char:EOLhyphen"/>ſhops</hi>
+(in his ſence, paternal Biſhops) above, and diſtinct from
+Presbyters? that ſo it muſt be concluded No ordination by Bi<g ref="char:EOLhyphen"/>ſhops,
+no Miniſter, no conſecration or celebration of either
+Sacrament? and ſo where theſe <hi>Conſervators, Conduits, Ci<g ref="char:EOLhyphen"/>ſterns,
+were never laid,</hi> or have been any way cut off, Eccle<g ref="char:EOLhyphen"/>ſiaſtical
+authority and Miniſterial power never came, or is re<g ref="char:EOLhyphen"/>moved
+and quite gone; for without doubt this water muſt run
+in its own Pipes: Were it not for that ſubordination and de<g ref="char:EOLhyphen"/>pendance
+of ordinary <hi>Miniſters, Shepherds, and Rulers</hi> unto
+and upon the <hi>Angels, Preſidents, and chief Fathers</hi> of his
+Epiſcopal authority; he at after noteth, I ſhould by his adjunct
+<hi>Chief,</hi> have conceived that he would grant, <hi>Some ſmall Pipes
+had run from the Apoſtles times in union with Christ our chief
+Biſhop, and drived Eccleſiaſtical authority and Miniſterial
+power in the vacancy of his Biſhops:</hi> which, if he deny, the
+Church of <hi>Rome</hi> will triumph in his Epiſcopal union with her;
+but the Reformed Churches can give him little thanks for this
+Church annihilating Notion.</p>
+            <p>Again is it cleare that <hi>Epiſcopal and Apoſtolical Miniſtry</hi>
+is <hi>idem ordo,</hi> the ſame kinde, diſtinct from that of <hi>Paſtors and
+Teachers?</hi> it muſt be imagined ſo to be, whil'ſt <hi>Biſhops</hi> only
+as <hi>Biſhops,</hi> lay ſo much claim to the <hi>immediate ſucceſſion of the
+Apoſtles:</hi> That the Apoſtles had an Epiſcopacy, we cannot de<g ref="char:EOLhyphen"/>ny,
+for we reade of it in <hi>Acts</hi> 1. 20. Nor I think can it be
+reaſonably denyed that <hi>the feeding-Ruling Elders at Ephe<g ref="char:EOLhyphen"/>ſus</hi>
+were <hi>Biſhops;</hi> for ſo Saint <hi>Paul</hi> called them, as conſecrated
+by the Holy Ghoſt. <hi>Acts</hi> 20. 28. and <hi>immediate ſucceſſors</hi> to
+<pb n="25" facs="tcp:49382:14"/>
+the Apoſtles; yet it is not evident that they were all <hi>Angels,
+Preſidents, and chief Fathers;</hi> and ſuch as ſet <hi>Timothy</hi> over
+them as their Biſhop, muſt needs deny them ſo to have been;
+and then Sir, ſome that wanted this paternal authority, muſt
+be confeſſed <hi>Ciſterns of Miniſterial power, and Eccleſiaſtical au<g ref="char:EOLhyphen"/>thority,
+and immediate ſucceſſors to the Apoſtles:</hi> and ſo the
+Bond of Baptiſme binds to <hi>Gospel-Miniſters,</hi> as the <hi>explicite
+and preceptive inſtitution of Chriſt;</hi> whil'ſt <hi>Epiſcopal order</hi> can
+claim no more but <hi>tradition;</hi> and that very diſputable; the Pre<g ref="char:EOLhyphen"/>latical
+Divines of our Nation would not be thus tyed to the ob<g ref="char:EOLhyphen"/>ſervation
+of the <hi>Lords day;</hi> nor I to the obſervation of <hi>Eaſter;</hi>
+yet both theſe (eſpecially the firſt) look as like an <hi>immediate
+inſtitution of Chriſt, preceptive and explicite, or tacite and ex<g ref="char:EOLhyphen"/>emplary,</hi>
+as any order or kinde of Epiſcopacy he ſuggeſteth to be
+upheld by the bond of baptiſme.</p>
+            <p>As to what the Doctor addeth concerning the <hi>ſignal and in<g ref="char:EOLhyphen"/>tolerable
+injuries offered to the perſons of ſuch excellent Biſhops as</hi>
+England <hi>lately had, and ſtill may have, and the abatement of
+the honour of this whole Church and its Miniſtry, &amp;c.</hi> I wiſh it may
+be conſidered, That the Covenant is not levelled againſt any
+<hi>Real Excellency</hi> in the Biſhops, but <hi>an unwarrantable great<g ref="char:EOLhyphen"/>neſs,
+power, and authority,</hi> aſſumed by them, or attributed to
+them; which conferred an unfitting honour on the Church, and
+then the excluſion of it is no <hi>injury;</hi> and the mighty <hi>abate<g ref="char:EOLhyphen"/>ment</hi>
+thereof is a poſitive duty: I cannot think but that <hi>lear<g ref="char:EOLhyphen"/>ning,</hi>
+and the <hi>due honour of the Church,</hi> may and will be beſt
+encouraged by the vailing of that pompous, worldly ſtate, and
+wicked ſuperiority her Governours had obtained; the Churches
+<hi>perſpicuity</hi> ſeems not to me ſo neceſſary, that it muſt needs ſhine
+<hi>in Lawn Sleeves,</hi> and ſucceſſion of Biſhops of <hi>paternal autho<g ref="char:EOLhyphen"/>rity</hi>
+over their brethren; nor know I to what Churches, ſave
+thoſe of <hi>Rome</hi> (who make the Succeſſion of their Biſhops the
+ſole and ſingular Note of the true Church) a Superſedeas of ſuch
+Epiſcopal order (how ancient or venerable ſoever it be deemed)
+can be ſo ſcandalous as is ſuggeſted; I am ſure few of the Re<g ref="char:EOLhyphen"/>formed
+Churches ſee cauſe ſo to judge it; and then Sir, we finde
+little force in this his complicated Anſwer.</p>
+            <p>Thus Sir, I have made bold to conſider the Doctors <hi>indirect
+anſwer and arguments,</hi> wherein he endeavoureth to ſhake and
+<pb n="26" facs="tcp:49382:15"/>
+ſubvert the whole fabrick of the <hi>Solemn League and Covenant,</hi>
+and in them (to my judgement) there is ſo little ſtrength of
+Reaſon, or true Religion, that it affords but a poor ground for his
+inſulting and triumphant diſcharge in <hi>page</hi> 13. <hi>Theſe things
+being thus premiſed, are ſufficient (as I conceive) to abate the
+Edge and Rigour of the Covenant, and to ravel that cabel and
+bond of Religious obligation:</hi> For Sir, notwithſtanding his ſup<g ref="char:EOLhyphen"/>poſal
+(aſſerted) <hi>in good earneſt there is neither Law of God or
+man requiring, impoſing, or comprobating any ſuch Covenant:</hi>
+The <hi>Boanergeſses</hi> will finde cauſe to thunder out terrour againſt
+<hi>Covenant-breaking,</hi> leſt <hi>Rhetorical flouriſhes</hi> without ſtrength of
+<hi>Reaſons,</hi> ſhould releaſe the conſciences of the vulgar from the
+power of <hi>religious</hi> bonds.</p>
+            <p>It may be Sir, we ſhall finde more ſtrength in the Doctors
+down-right ſtroaks,<note place="margin">His direct an<g ref="char:EOLhyphen"/>ſwer.</note> than in his back-blows: His batteries in
+his indirect anſwers attempted, have beſpoken his purpoſe to
+break in ſunder the Sacred bond of the Covenant: His power
+to effect it in point of Epiſcopacy, muſt appear in his direct An<g ref="char:EOLhyphen"/>ſwer:
+wherein (we thank him) he looks on the Covenant
+<hi>in the ſofteſt ſence</hi> that can be made, as it is a <hi>voluntary vow, or
+Religious bond, which private men spontaneouſly took upon them<g ref="char:EOLhyphen"/>ſelves,
+&amp;c.</hi> But yet he ſuggeſteth it was taken by <hi>very few, not
+one fourth part of the Nation now living; and thoſe few made to
+take it by the terrors of priſon, plunder, ſequeſtration, and the
+like wracks:</hi> Unto which (before we obſerve his particular
+reconciling Anſwers, relating to the ſpecial point of Epiſco<g ref="char:EOLhyphen"/>pacy)
+I propound to conſideration, that</p>
+            <p>The <hi>paucity of</hi> Covenantets <hi>will not diſcharge its obligation;</hi>
+be there never ſo <hi>few,</hi> I hope thoſe <hi>few</hi> may be free in aſſerting,
+and muſt be faithful in adhering to the Covenant; in which their
+confidence may be the greater, for that His moſt <hi>Sacred Majeſty</hi>
+comes in to make up the number.</p>
+            <p>But if the Doctor ſaw with my eyes, he would not ſuppoſe the
+number to be ſo ſmall; if all <hi>Tables</hi> were as legible as thoſe of
+the <hi>Lords and Commons,</hi> I believe their number would be found
+many more than the fourth part of the Nation. But can any
+conſiderable obſerver take notice the Covenant was impoſed on,
+and ſubmitted unto, by all ſorts and degrees of men, in all Coun<g ref="char:EOLhyphen"/>ties,
+Cities, and Towns tendred (and ſince teſtified by their
+<pb n="27" facs="tcp:49382:15"/>
+publique ſubſcriptions) by the moſt Miniſters in the ſeveral
+Counties, unto their individual Congregations; and that under
+the ſucceſs of War, which uſually extendeth a Covenant unto all
+who come under its influence, and yet (without the ſuppoſal
+of a very great mortality) imagine, <hi>not the fourth part of the
+Nation</hi> to have taken the Covenant? The Doctor ſure judgeth
+by ſuch with whom he converſeth; and I eaſily believe they are
+not a fourth part of the Nation; yet methinks he himſelf being
+to be reckoned into the number, might well conjecture them
+to be more.</p>
+            <p>But again Sir, the <hi>capacity</hi> of the Covenanters, is more con<g ref="char:EOLhyphen"/>ſiderable
+than <hi>the number;</hi> and will make it a queſtion well
+worth conſideration, Whether it be not obligatory to the whole
+Nation? When I conſider the Lords and Commons <hi>in Par<g ref="char:EOLhyphen"/>liament
+aſſembled,</hi> and under that notion and capacity ſwearing
+the Covenant, as the collective body of the Nation, though not
+near <hi>a fourth part in number,</hi> I am apt to think it looks very
+like <hi>a National Obligation:</hi> For I know not how they can take
+pardons, if they may not make promiſes in our names; eſpeci<g ref="char:EOLhyphen"/>ally
+when the aſſent of His <hi>Moſt Sacred Majeſty</hi> is made ſo le<g ref="char:EOLhyphen"/>gible
+by His Royal Subjection to the ſame Solemn League and
+Covenant. I am much miſtaken if the Oath of <hi>Zedekiah and
+the Princes</hi> (without popular delegates) did not binde the peo<g ref="char:EOLhyphen"/>ple
+of <hi>Iſrael:</hi> I hope the Doctor will be more warie, than to
+plunge the whole Kingdome into perjury: That there was any
+ſuch Logick as <hi>Priſons, Plunder, and Sequeſtrations,</hi> to en<g ref="char:EOLhyphen"/>force
+the Covenant, I am not well-pleaſed; I hope he had more
+fortitude than to ſuffer his Reaſon and Religion to be ſo capti<g ref="char:EOLhyphen"/>vated;
+he knoweth the <hi>will cannot be compelled;</hi> and I imagine
+he will not make <hi>extortion by force,</hi> any more than <hi>fraude</hi> ab<g ref="char:EOLhyphen"/>ſolve
+the Obligation, and warrant the receſſion or violation of
+an Oath; he knows that Nature and Scripture do teach the con<g ref="char:EOLhyphen"/>trary,
+whatever was <hi>Cicero</hi>'s affection to him, he knows
+wherein he commends <hi>Pomponius</hi> the Tribune as to his extorted
+Oath; nor will a Caſuiſt deny, <hi>Juramentum metu extorium,</hi> to
+bind; greater <hi>force</hi> can beſiege none to the <hi>making of an Oath;</hi>
+nor greater <hi>fury</hi> from God follow any for <hi>breaking the oath</hi> ſo
+forced, than that which befell <hi>Zedekiah</hi> to the King of <hi>Baby<g ref="char:EOLhyphen"/>lon.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:49382:16"/>
+But let us ſee by what ſtrength of Reaſon he worketh out re<g ref="char:EOLhyphen"/>leaſe
+from this <hi>voluntary vow,</hi> that we may be alſo free-men;
+and it is produced by ſeveral ſuggeſtions; where of</p>
+            <p>The firſt is a clear ſophiſm or charm to vulgar conception;<note place="margin">Words in oaths do bind.</note> 
+               <hi>They
+are not</hi> (ſaith he) <hi>the bare words of the Covenant, which as
+charmes, can binde any mans conſcience to, or againſt any thing:</hi>
+It is very true; for they may be hiſtorically read, or repeated
+by ſuch who are not capable of, or concerned in the obligati<g ref="char:EOLhyphen"/>on:
+But Sir, if (as in our caſe) the words be uttered as ex<g ref="char:EOLhyphen"/>preſſions
+of the mind, and declarations of the purpoſe and re<g ref="char:EOLhyphen"/>ſolve
+of the heart to engage God and men to expectation of per<g ref="char:EOLhyphen"/>formance,
+I hope they then binde; and that, not only becauſe
+the matter is <hi>juſt, true, and good,</hi> but alſo becauſe <hi>declared:</hi>
+Is not engagement of expectation in others unto the Obligation
+of our ſelves <hi>the end of ſpeech</hi> in Promiſes and Oaths? whence
+elſe is that Caution of Caſuiſts, That <hi>the words of an oath be
+plaine, and clear, and commonly</hi> uſed and underſtood, that the
+fallacy thereof may fall? I wonder at the Doctors Antitheſis of
+<hi>words</hi> unto the <hi>Reaſon, Juſtice, Truth, Religion, and Duty,</hi>
+which we deny not <hi>morally and really to oblige men either by
+Gods generalor particular precepts:</hi> but yet I cannot believe
+them to be as <q>
+                  <hi>Iron or Adamantine bands to chuſe good and
+do it; to hate evil and eſchew it, long before the Withs and
+Cords of mans combining or tying are put upon them by them<g ref="char:EOLhyphen"/>ſelves
+or others:</hi>
+               </q> This ſounds in my ears like new Divinity,
+and morality too; oh the folly of Nations, who confide more
+in the Withs and Cords of <hi>words, promiſes, Covenants,</hi> than
+in the Iron and Adamantine bonds of <hi>Truth, Juſtice, and Duty!</hi>
+I muſt confeſs, I was ſo fooliſh, as to fancy my ſelf bound to an
+Act, becauſe <hi>good, iuſt, true, duty;</hi> but much faſter bound,
+becauſe <hi>promiſed or ſworne;</hi> and I have known many men bog<g ref="char:EOLhyphen"/>gle
+at an Oath or Promiſe, and fear to break it, who would make
+no bones of <hi>Reaſon, Truth, Justice, Duty,</hi> but ſnap them in
+ſunder like a ſingle tie; and methinks the Scripture placeth a
+great deale of firength in the words of a Vow or Oath, <hi>Deut.</hi> 23.
+23. <hi>That which is gone out of thy lips thou ſhalt keep and per<g ref="char:EOLhyphen"/>forme;
+as thou hast vowed it willingly unto the Lord thy God;
+for thou haſt ſpoken it with thy mouth:</hi> And ſure there was moſt
+<hi>Adamantine</hi> ſtrength in the words of <hi>Jephtah,</hi> which put him
+<pb n="29" facs="tcp:49382:16"/>
+into that agony, and conſtrained that Out-cry, <hi>I have opened
+my mouth unto the Lord, and cannot go back!</hi> Judges 11. 35. If
+Oaths and Promiſes are but <hi>withs and cords,</hi> I marvel at the
+courſe and cuſtoms of Nations to lay them each on other as the
+only grounds of confidence; and I much more wonder, mens
+faith ſhould be more fixed in Gods promiſes than properties;
+and God, though under the <hi>Iron bonds</hi> of his own mercy, juſtice,
+truth, yet, for aſſurance-ſake, ſhould bring himſelf under the
+<hi>withs and cords</hi> of Promiſe and Oath, and then tell us <hi>by two im<g ref="char:EOLhyphen"/>mutable
+things wherein it is impoſſible Gods ſhould ly; we ſhould
+have ſtrong conſolation,</hi> Heb. 6. 18.</p>
+            <p>His ſecond ſuggeſtion is to me no leſs ſtrange than the firſt,<note place="margin">Every mans oath binds by his own imagi<g ref="char:EOLhyphen"/>nation.</note>
+               <hi>(viz.) <q>Nor can any ſuch Covenant binde any man in any con<g ref="char:EOLhyphen"/>ſcienti
+us bond, meerely by the power of a mans own imagi<g ref="char:EOLhyphen"/>nation:</q>
+               </hi>
+I am ſure it can never binde him by the power of an<g ref="char:EOLhyphen"/>other
+mans imagination: Oaths ought to be in words ſignifi<g ref="char:EOLhyphen"/>cant,
+whoſe ſence may be obvious to every common capacity;
+ſhuffling and ſhifting the ſence, and ſignification of an Oath, is
+the ſnare and perplexity of conſcience, policy of Hell, and Sophi<g ref="char:EOLhyphen"/>ſtry
+of the Devil: Men muſt be careful to underſtand every
+Religious tie, and bond; and not <hi>liſt to conceive by prejudice
+and preſumption;</hi> yet if his own imagination be not that which
+muſt guide and binde him, I am miſtaken; I expect men to ſee
+with their own eyes, and be ſaved by their own faith; and did
+ever conceive diſcourſe, interpretation, inſtruction, and argu<g ref="char:EOLhyphen"/>mentation,
+to intend, not a <hi>Magiſterial impoſition,</hi> but infor<g ref="char:EOLhyphen"/>mation
+of the minde, which might engender a right imaginati<g ref="char:EOLhyphen"/>on
+for men to follow. I know not Sir, what your Caſuiſt may
+make of an <hi>erroneous conſcience,</hi> but Dr. <hi>Ames</hi> hath taught us
+<hi>Conſcientia quamvis errans, ſemper ligat; &amp; ille peccat qui ae<g ref="char:EOLhyphen"/>git
+contra conſcientiam;</hi> an erroneous conſcience doth alwayes
+bind, ſo that he ſins who acts contrary thereunto; which cannot
+be, unleſs the Covenant bind by the power of a mans own imagi<g ref="char:EOLhyphen"/>nation.</p>
+            <p>His third Anſwer I do confeſs is drawn with ſome conſidera<g ref="char:EOLhyphen"/>ble
+ſtrength;<note place="margin">Oaths bind not to the in<g ref="char:EOLhyphen"/>jury of another</note> for <hi>no Covenant can binde us to the injurie of an<g ref="char:EOLhyphen"/>others
+right, liberty, power, or lawful authority, private or
+publique;</hi> except ſuch as are <hi>ſui juris,</hi> involved in himſelf, and
+ſo <hi>per accidens</hi> are hindred, and hurt in and by them, which I
+<pb n="30" facs="tcp:49382:17"/>
+believe he underſtands: for Sir, it loſeth its ſtrength in the
+<hi>aſſumption;</hi> for it appears not that the <hi>xtirpation of Prelacy</hi> as
+it is expreſſed in the Covenant, doth take away the <hi>liberty<g ref="char:punc">▪</g>
+power, and lawfull authority of King, Biſhops, or Parliament;</hi>
+himſelf tells us, the Covenant was levelled againſt the <hi>deſpoti<g ref="char:EOLhyphen"/>cum
+tyrannicum Regimem;</hi> and I have before noted, that it is
+the <hi>unwarrantable pomp and power, and unlawful authority, and
+ſuperiority</hi> of the Biſhops above other Miniſters, which is ex<g ref="char:EOLhyphen"/>cluded,
+and to be extirpated by the <hi>Covenant,</hi> untell the
+<hi>Object</hi> is agreed on, the force of this Argument may well fall.</p>
+            <p>Yet give me leave to tell the Doctor, it is worth his enquiry,
+whether the power of the King for <hi>reſtitution,</hi> and of the Biſhops
+for <hi>execution and adminiſtration</hi> of Epiſcopacie (lately acted in
+<hi>England,</hi> and now endeavoured to be reſtored) be not fully,
+and actually, by a juſt, lawfull, and compleat Authority, <hi>aboliſh<g ref="char:EOLhyphen"/>ed</hi>
+and taken away by the ſtatute of 17 <hi>Caroli,</hi> repealing <hi>that
+whole branch</hi> of the ſtatute <hi>primo Elizabethae,</hi> which authori<g ref="char:EOLhyphen"/>zed
+the juriſdiction of Epiſcopacy; and barreth his moſt <hi>ſa<g ref="char:EOLhyphen"/>cred
+Majeſty</hi> from giving Commiſſions thereunto, and forbid<g ref="char:EOLhyphen"/>ding
+all Ranks and Orders Eccleſiaſtical from acting upon any
+ſuch Commiſſion, in any matter or thing whatſoever: Sir,
+moſt men think that this power was lawful, and the Hierar<g ref="char:EOLhyphen"/>chy
+of <hi>England</hi> was <hi>ſui juris</hi> too, and within the power of
+<hi>King, Lords, and Commons;</hi> and this diſcharge of Epiſcopacy to
+have been no injury, and to have been acted long before the Co<g ref="char:EOLhyphen"/>venant
+did exiſt; and ſo the Covenant was but an enforce<g ref="char:EOLhyphen"/>ment
+of this Law; and then Sir, if there be <hi>a Parliament which
+may look upon Biſhops and Epiſcopacy with a more propitious eye,
+than thoſe who beheld it through the Presbyterian ſpectacles,</hi> it
+will be worth enquiry, whether the Covenant (as is before no<g ref="char:EOLhyphen"/>ted)
+be not <hi>a National Covenant,</hi> and bindeth not the Parlia<g ref="char:EOLhyphen"/>ment
+from propounding, and praying, and his moſt ſacred
+Majeſty from aſſenting unto the re-eſtabliſhment thereof? and
+ſo whether the preſent actings of ſome <hi>Biſhops and Deans</hi> be
+not without Legal and juſt authority; and the impoſing or
+endeavouring to return that (by Statute) aboliſhed, and (by Co<g ref="char:EOLhyphen"/>venant)
+excluded Fabrik, be not a tranſgreſſion of the Law,
+and plunging the Nation into perjury? which how conſiſtent
+it is with the honour of King or Kingdom, let wiſe men
+judge.</p>
+            <p>
+               <pb n="31" facs="tcp:49382:17"/>
+The Doctors fourth, fifth, and eighth Suggeſtions do relate unto <hi>the
+good of Epiſcopacie;</hi> concerning which, he ſuppoſeth <hi>a good,</hi> which I muſt confeſs I am not clear to admit; as for that good in this, which
+is common to all Governments <hi>(viz.) <q>the Principles and propor<g ref="char:EOLhyphen"/>tions
+of Order,</q>
+               </hi>
+               <note place="margin">The good neſſe of E<g ref="char:EOLhyphen"/>plſcopacy denied.</note> 
+               <hi>Subordination, and Government,</hi> we ſhall not deny it,
+only conceive it is not here pleadable; for, it may he continued in the
+Government which ſhall be eſtabliſhed; but <q>
+                  <hi>as to that of good in it,
+by Scriptural Precepts and Patterns in the Jewiſh Church, Apostolique
+conſtitution, and Primitive uſe of Eccleſiastical cuſtome, and holy
+mens general approbation, and univerſal imitation,</hi>
+               </q> it is under diſ<g ref="char:EOLhyphen"/>pute,
+and not yet obvious, and ſo not of force to conclude for it; and
+as to <hi>Englands experience of the much good done by it, ſince the Re<g ref="char:EOLhyphen"/>formation,</hi>
+it is very obſcure, whil'ſt the beſt of benefit imaginable to
+have been reaped by it, hath been to preſerve the <hi>Reformation</hi> in the
+ſtate and degree in which King <hi>Edward</hi> the ſixth, and Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi>
+left it; for wherein hath Epiſcopacie promoted it? nay rather
+wherein hath not Epiſcopacie (by <hi>its ſilencing and ſuſpending zea<g ref="char:EOLhyphen"/>lous
+Miniſters, excommunicating, impriſoning, baniſhing, and ſtigma<g ref="char:EOLhyphen"/>tizing
+pious Chriſtians, for no fault at all ſave endeavonring it)</hi> re<g ref="char:EOLhyphen"/>tarded
+the progreſs and perfection of the Reformation? nay, hath
+not Epiſcopacie (by <hi>its turning our Chancels into railes inſancta ſan<g ref="char:EOLhyphen"/>ctorums,
+our Communion-tables into adored Altars, our glaſs win<g ref="char:EOLhyphen"/>dows
+into popiſh pictures, and changing our common and eſt abliſhed Li<g ref="char:EOLhyphen"/>turgy
+into a more compleat conformity to the Popiſh Maſs-book for form
+of adminiſtration, Order of worſhip, Rites and Ceremonies)</hi> brought the
+<hi>Reformation</hi> into a moſt palpable and apparent Retrogradation? and
+hath not then your Doctor cauſe to tell us <hi>it were extream folly, and
+madneſs, prophaneneſs, and blaſphemy to cry it down as evill, and en<g ref="char:EOLhyphen"/>gage
+in Covenant againſt it as ſuch?</hi> truly Sir, to all his ſuppoſed good
+whereby it is <hi>ſo beneficial</hi> (in his eye) <hi>to the being compleat, and
+regular being of any Church, and none more than England, I ſhall
+only oppoſe that one evill,</hi> for which (were there in it no more) it de<g ref="char:EOLhyphen"/>ſerveth
+to be <hi>decried, and extirpated by the Covenant,</hi> and that
+<hi>evill</hi> I find ſo inherent to Epiſcopacy, that this very moderate man
+cannot divide them, <hi>(viz.)</hi> the not only <hi>degrading</hi> all ordinary Pa<g ref="char:EOLhyphen"/>ſtors
+and Miniſters in the ſight of the people (making their Mini<g ref="char:EOLhyphen"/>ſtery
+greatly ineffectual) but alſo <hi>diveſting</hi> them of all authority,
+and ſuperiority over the people, preferring the people <hi>to, and above
+them, as their equals and ſuperiousr;</hi> whereby all their adminiſtra<g ref="char:EOLhyphen"/>tions
+whil'ſt in <hi>black Coats,</hi> are repreſented to be meer <hi>Cyphors,</hi> to
+<pb n="32" facs="tcp:49382:18"/>
+which the Biſhops <hi>Lawn ſleeves</hi> muſt be the only figure ſignificant:
+Sir, can it be leſs than duty, to extirpate that which doth engroſs to
+its ſelf, and ſo enervate in others, <hi>all Goſpel Miniſtery?</hi> if <hi>Cephas</hi>
+and <hi>Apollo</hi> be not <hi>Miniſters of Jeſus Chriſt,</hi> as well as <hi>Paul</hi> the Apoſtle,
+I ſee no cauſe to chide the <hi>Corinthians</hi> for their Schiſme; but paſſing
+his Hypotheſis, let us try the ſtrength of his Propoſitions by which he
+would bind the Covenanter to his Epiſcopacy, and they ſound very
+ſtrangely in my ears.</p>
+            <p>1. <q>
+                  <hi>A Covenant can bind no man in conſcience againſt any thing that
+is in its nature good, or not Morally evil, for this were to bind a
+mans ſelf and others beyond Gods eternal righteouſneſs;</hi>
+               </q> this is unto
+me a leſſon of new Divinity;<note place="margin">Oaths may bind a<g ref="char:EOLhyphen"/>gainſt good indiffe. ent.</note> for Sir, be pleaſed to note, that the
+good he ſpeaks of is <hi>natural,</hi> not moral, much leſs Theological good;
+it is a <hi>good</hi> which is not in it ſelf <hi>neceſſary,</hi> but may be neceſſary in <hi>its
+time and place;</hi> ſo that it is a plain <hi>Adiaphoron,</hi> a thing indifferent: that
+<hi>to bind men to what is morally evil, is a Covenant of hell,</hi> I can eaſily be
+convinced; but, that <hi>to bind them againſt what is allowed of God as good
+and lawful</hi> (but not duty neceſſary untill circumſtanced with time and
+place) ſhou'd be ſo, is ſure but one Doctors opinion. I did ever
+conceive <hi>Adiaphorous</hi> to be ſubject to the Magiſtrates command, and a
+mans own Covenant, and ſo diſtinct from Divine preſcription; the
+eating of fleſh is in its nature <hi>good, and not morally evil;</hi> the Apoſtle is
+apt to Covenant with a weak brother never to eat fleſh; is this to
+<hi>bind himſelf beyond Gods eternal bonds of righteouſneſs, or in a Covenant
+with hell?</hi> I miſtake ſuch Caſuiſts as I have read, if they conclude not
+the contrary.</p>
+            <p>2. <q>
+                  <hi>No man may vow or Covenant, much leſſe keep any ſuch Covenant
+as he hath taken intentionally againſt the evil, corruption or abuſe of any
+thing,</hi>
+                  <note place="margin">Oaths a<g ref="char:EOLhyphen"/>gainſt evil hindring the uſe of ſome good, do binde.</note> 
+                  <hi>ſo as to involve the good and uſefulneſs of it, and to condemn that to
+deſtruction and extirpation.</hi>
+               </q> Truly Sir, I muſt confeſs not only <hi>judi<g ref="char:EOLhyphen"/>cial</hi>
+(ſuch as is his inſtance of the Jndge of all the earth in his righte<g ref="char:EOLhyphen"/>ous
+deſtribution towards <hi>Sodom,</hi> and ſo impertinent to his caſe) but al<g ref="char:EOLhyphen"/>ſo
+<hi>rational,</hi> and <hi>Religious</hi> diſcrimination of objects is good, and neceſ<g ref="char:EOLhyphen"/>ſary,
+but that a Covenant involving <hi>good and uſefulneſs,</hi> whil'ſt it is
+intended againſt evil and abuſe, is therefore <hi>void, and not to be kept,</hi> I
+cannot believe: I have read, <hi>Juramentum non eſſe illicitum aut obligan<g ref="char:EOLhyphen"/>di
+vim non amittere praeciſe ab hoc,</hi>
+               <note place="margin">Sanderſon de jura<g ref="char:EOLhyphen"/>men to prae<g ref="char:EOLhyphen"/>lect. 3. Sect. 12.</note> 
+               <hi>quod videtur eſſe impeditivum maje<g ref="char:EOLhyphen"/>ris
+boni,</hi> an oath is not therefore void, becauſe it hinders a greater (that
+is, more than ſimple) good: I ſhall willingly wiſh men may not be ſo
+tranſported as to ſwear <hi>againſt a good</hi> when it can be ſeparated from
+<pb n="33" facs="tcp:49382:18"/>
+the evil; nor yet to <hi>diſcharge the Oath,</hi> becauſe the good (which
+might have been divided) is involved: It is a mans <hi>duty</hi> to diſtinguiſh
+between the <hi>Superſtructures of men, and foundation of Chriſt and his A<g ref="char:EOLhyphen"/>poſtles</hi>
+(of which order his Epiſcopacy doth not yet appear:) And it is
+a mans <hi>liberty</hi> to reſtrain himſelf from the thing that is in its own na<g ref="char:EOLhyphen"/>ture
+good and uſeful, when attended with plain and poſitive, nay, ac<g ref="char:EOLhyphen"/>cidental
+evil. I knew a man paſſing through an old rotten houſe, got a
+knock on his pate, and in his paſſion, ſware he would pull it down and
+burn it every ſtick; his work-men adviſed him to uſe ſome of the ma<g ref="char:EOLhyphen"/>terials
+<hi>good and uſeful</hi> in his new Fabrick; the good man is conſcious
+of his Oath (though raſh and unadviſed) Will the Doctor pleaſe to re<g ref="char:EOLhyphen"/>ſolve
+his conſcience? Or again, <hi>Hezekiah</hi> obſerves the brazen ſerpent
+(the ſometimes means, and now Memorial of <hi>Iſraels</hi> remedy, and type
+of the Redeemer) abuſed to Idolatry, ſweareth he will deſtroy it, and ac<g ref="char:EOLhyphen"/>cordingly
+executes his Oath: Suppoſe it at that time (as it had its good)
+to be as uſeful as before, it will puzzle me to charge him with iniquity
+for ſo doing.</p>
+            <p>Thirdly, <q>
+                  <hi>No man can in conſcience be bound by any ſuch Covenant
+againſt that which may upon ſecond thoughts and after-view,</hi>
+                  <note place="margin">He that ſweareth to his own hurt, is bound.</note> 
+                  <hi>and
+better information, appear to be good and uſeful to him; he is here
+bound not to keep his Coveuant in the latitude of his miſtakes and pre<g ref="char:EOLhyphen"/>ſumptions,
+nor to act according to his prejudices and former ſuppoſals;
+but rather to retract his raſhneſſe and unadviſedneſſe in taking it at
+firſt, and to act according to his preſent evidence of what is true, juſt,
+good, lawful, and uſeful even in Epiſcopacy,</hi> &amp;c.</q> Truly Sir, this
+is to me ſuch ſtrange divinity, that I cannot but wonder D. D. ſhould be
+attendant on the aſſertor of it; I am ſure if it be admitted, one reaſon
+produced by no mean Caſuiſt to defend the Obligation of an Oath
+extorted by fear,<note place="margin">Sander. de Juram. Lect. 4. Sect 15.</note> muſt fall to the ground, <hi>Elegit id quod tunc viſum eſt
+ſibi melius,</hi> he <hi>choſe</hi> that which he then <hi>conceived to be the beſt;</hi> but
+according to our Caſuiſt, he might on an after-view diſcern <hi>hurtful,</hi>
+and ſo <hi>retract:</hi> How happy and cheering would ſuch a reſolution as
+this have been unto <hi>Jephtah</hi> in his anguiſh and out-cry, <hi>I have o<g ref="char:EOLhyphen"/>pened
+my mouth unto the Lord, and cannot go back!</hi> Why man, can
+you not on <hi>ſecond thoughts and an afterview</hi> ſee the goodneſs and
+uſefulneſs of your daughter? Retract the <hi>raſhneſſe and unadviſedneſſe</hi> of
+thy vow; and act according to thy preſent evidence; Nay, how ad<g ref="char:EOLhyphen"/>vantagious
+had this reſolution been to <hi>Iſrael,</hi> when <hi>Joſhuah</hi> and the
+Princes preſerved the <hi>Gibeonites</hi> to be <hi>pricks in the eyes, and thornes
+in the ſide of Iſrael?</hi> To what end do they plead, <hi>We have ſworne un<g ref="char:EOLhyphen"/>to
+<pb n="34" facs="tcp:49382:19"/>
+them by the Lord, now therefore we may not touch them?</hi> Why, muſt
+they needs act to the <hi>latitude of their preſumptions and mistakes?</hi> could
+they not on <hi>ſecond thoughts and an after-view</hi> diſcover their craft, and
+diſcern them to be of the people commanded by God to be deſtroyed,
+dangerous to diſturb their peace, and divert them from their Religi<g ref="char:EOLhyphen"/>on?
+How ſad was the fate of the ſons of <hi>Saul</hi> in the want of ſuch a <hi>ſo<g ref="char:EOLhyphen"/>lution</hi>
+as this which might have ſaved them all from hanging? for the
+Scripture witneſſeth, That <hi>Saul ſlew the Gibeonites in his zeale to the
+children of Iſrael and Judah,</hi> 2 Sam. 21. 2. Without doubt on <hi>ſecond
+thoughts and an after-view</hi> of the good which might enſue on the vio<g ref="char:EOLhyphen"/>lation
+of that Covenant caught by fraude, I hope our Prelates will
+take care in the next Impreſſion of the Common-Prayer-Book, to make
+the words in <hi>Pſalm</hi> 15. <hi>ver.</hi> 5. conform to <hi>Pſalm</hi> 105. <hi>verſ.</hi> 28. it
+is but the expunction of a Negative particle, and for <hi>diſobedient,</hi> we
+reade <hi>obedient;</hi> and for <hi>repenteth not,</hi> we reade <hi>repenteth;</hi> and ſo the
+Character of a man for heaven ſhall be conform to our Caſuiſts reſo<g ref="char:EOLhyphen"/>lution
+and Scripture-Text, <hi>He that ſweareth to his own hurt, and repen<g ref="char:EOLhyphen"/>teth:</hi>
+I cannot but commend the correction of this verſe to the Drs.
+care; for as it is now read, it is not only different from the Original,
+but alſo diſſonant to his doctrine whilſt it is read in the Old Common<g ref="char:EOLhyphen"/>Prayer-Book,
+<hi>He that ſweareth to his neighbour, and diſappointeth him
+not, though it were to his own hindrance.</hi>
+            </p>
+            <p>Thus Sir, I have tryed the ſtrength of the Drs. Arguments; and find in
+them very little force to rectifie conſcience, releaſe St. <hi>Peter,</hi> and re<g ref="char:EOLhyphen"/>concile
+the Covenant with Epiſcopacy. Truly Sir, were Epiſcopacy in
+it ſelf never ſo good, yet it muſt appear neceſſary before it break
+through the bond of the Covenant: It is now indeed <hi>high time to learn
+righteouſneſs and wiſdom;</hi> the which works not more in any thing, than
+<hi>a conſcientious cleaving to the Covenant, and paying the vows made to God
+in the day of affliction:</hi> I freely conſent with him, that <hi>the cautious and
+conſcientious covenanter take a calmer view, and exacter meaſure than
+perhaps he did at the firſt.</hi> But methinks he ſhould not leave them to
+rules of ſo great latitude, that will not only diſcharge the Covenant,
+but all Sacred Religiousties: What Oaths can bind, if words are of
+no force, or but withs and cords? his own imagination of no influ<g ref="char:EOLhyphen"/>ence?
+no good may be excluded or involved? and ſecond thoughts
+diſcovering uſefulneſs will diſcharge it? where ſhall be the certainty of
+humane contracts or force of Religious bonds, if theſe principles be
+admitted? who ſhall ever ſcruple to make, or care to keep a Cove<g ref="char:EOLhyphen"/>nant,
+if other mens interpretations muſt direct it, and our own retra<g ref="char:EOLhyphen"/>ction
+<pb n="35" facs="tcp:49382:19"/>
+               <hi>on ſence of raſhneſs,</hi> may diſcharge it? If Sir, theſe propoſitions be the Do<g ref="char:EOLhyphen"/>ctors
+props for Epiſcopacy, it will appear too prophane for pious men to meddle with.</p>
+            <p>Sir, I doubt not but he and all men ſhall find every conſcientious Covenanter en<g ref="char:EOLhyphen"/>joy
+the comfort of his <hi>accompliſhed oath,</hi> when <q>
+                  <hi>in his place he hath ſeaſonably ad<g ref="char:EOLhyphen"/>viſed,
+humbly petitioned, and lawfully endeavoured,</hi>
+               </q> to remove <hi>Englands</hi> old Hie<g ref="char:EOLhyphen"/>rarchy;
+and to reſtore ſuch an Epiſcopacy, to be exerciſed by the Officers of the
+Church in Common, and good order, as is ne<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt the Scripture, primitive practice
+and perſwaſion of ſober, grave, pious, and learn<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap> men, ſuch as was the late Pri<g ref="char:EOLhyphen"/>mate
+of <hi>Armagh;</hi> but if either His <hi>Moſt Sacred Majeſty,</hi> or any other in authority
+fail in the exerciſe of their capacity (as he ſeems to hope) to effect the ends of the
+Covenant, I hope it ſhall be no offence to mourn for their iniquity, and the ini<g ref="char:EOLhyphen"/>quity
+of the Land<g ref="char:punc">▪</g> nor will it be inconſiſtent to that <hi>humble ſubmiſſion,</hi> active or
+paſſive, I confeſs we all owe unto His Moſt Sacred Majeſty: whatever ſhall be the
+eſtabliſhment in the Church (though never ſo corrupt, yet) whilſt conſiſtent with
+ſalvation, though it may occaſion to me <hi>ſuffering, and a ſuſpence of my Miniſtry,</hi>
+by Gods grace it ſhall not effect in me, or ſuch on whom I have an influence, <hi>Schiſm</hi>
+from the Church, or <hi>Reſiſtance</hi> of His Majeſties juſt Right and Authority; for
+whom as I have not ſuffered the leaſt, ſo if God ſhould ſo far leave Him (which
+God forbid) I am ready, by Him, to ſuffer the utmoſt, in adherence to the <hi>So<g ref="char:EOLhyphen"/>lemn
+League and Covenant,</hi> untill it be diſcovered <q>
+                  <hi>a band of iniquity, a ſnare
+and gin for ſchiſme and ſedition to act by to the diſhonour of God, and reproach
+of Reformed Religion:</hi>
+               </q> Yet I cannot but moſt heartily pray for <q>
+                  <hi>the honeſt
+and ingenuous Reformation of Epiſcopacy beyond the former defective or exceſſive
+Conſtitution or execution of it,</hi>
+               </q> which I doubt not will effect the corruption and
+extirpation covenanted.</p>
+            <p>I confeſs every conſcientious Covenanter oweth this Juſtice and duty</p>
+            <p>1. To God, <q>
+                  <hi>to approve, love, deſire, and uſe what is good,</hi>
+               </q> not being with<g ref="char:EOLhyphen"/>in
+his own power, and excluded by his oath or covenant; may, and muſt, are things
+very different.</p>
+            <p>2. <q>To obey the King as chief Governour of Church and State, enjoyning things
+lawful and honeſt <hi>(ſo not covenanted againſt)</hi> though not the very beſt.</q>
+            </p>
+            <p>3. To pity <q>
+                  <hi>the Biſhops and Fathers of the Church, who have</hi> been there too in<g ref="char:EOLhyphen"/>jurious, <hi>or injuriouſly uſed,</hi>
+               </q> and pull down all proud Prelates and paternal autho<g ref="char:EOLhyphen"/>ritie
+over Presbyters, which abuſe their brethren, and debaſe their Miniſtry, becauſe
+in a black Coat.</p>
+            <p>4. To encourage Miniſters, and endeavour the reſcue of them <hi>from dividing facti<g ref="char:EOLhyphen"/>ons
+and popular inſolencies</hi> which have befaln them <hi>for want of the King,</hi> and Eccleſia<g ref="char:EOLhyphen"/>ſtical
+order, but may be enjoyed without <hi>a Biſhop</hi> advanced in power above his Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>5. Love <hi>to the Church, in endeavouring its unity, peace, and proſperity</hi> in the ruine
+of Prelacy and eſtabliſhment of an <hi>Epiſcopacy</hi> and over-ſight duely conſtituted and
+carefully executed.</p>
+            <p>6. Care <hi>to his own ſoul, inward and eternal peace, not to be couzened by gloſſes,</hi> cour<g ref="char:EOLhyphen"/>ted
+by Rhetorical flouriſhes, nor cudgelled out of his Covenant by moſt bitter ſuffer<g ref="char:EOLhyphen"/>ings,
+but to cleave unto it with care, conſtancy, and diligence, and take heed of all ſo<g ref="char:EOLhyphen"/>phiſtical
+ſolutions, and ſubtle reconciliations, which endeavour to baffle the Covenant,
+and break in pieces the very power of all Religious bonds.</p>
+            <p>
+               <pb n="36" facs="tcp:49382:20"/>
+Sir, <hi>Knowing how under and dclicate a thing Conſcience is,</hi> yet fearing it <hi>might</hi>
+be baftled and <hi>deluded by Sophiſtry</hi> and ſcovered; I have preſumed to ſur<g ref="char:EOLhyphen"/>veigh
+your Doctors <hi>Solution of the Covenant,</hi> and give an account of my apprehen<g ref="char:EOLhyphen"/>ſions
+of it; Covenant-breaking is ſo direful <hi>a God-provoking</hi> ſin, that I tremble
+to think of <hi>Englands</hi> leaſt tendencie to it; whatever men fancie to themſelves of
+the Covenant being <hi>the Rock of his late Majeſties ſhipwrark,</hi> it is viſible that the
+<hi>violation</hi> of it hath been the <hi>deſtru<gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion</hi> of our late <hi>Ilſurpers,</hi> who laid i aſide that<g ref="char:punc">▪</g>
+they might leap into their Chair o<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> State: and it cannot be denied to have beene
+the chief and <hi>only means</hi> of his Majeſties moſt juſt and honourable Reſtitution;
+and an adherencie to it (I doubt not) will prove the eſtabliſhment of his Royal
+Throne; I cannot therefore but be grieved to finde contempt poured on the Cove<g ref="char:EOLhyphen"/>nant,
+not only by the vulgar, but ſuch whoſe ranck and gravity ſhould make them
+more ſenſible of the weight and worth of an Oath.</p>
+            <p>When Sir your Doctors <hi>Solution</hi> came firſt into my hands, the Speech of <hi>Julian</hi>
+Cardinal of Saint <hi>Angelo</hi> concerning the <hi>League</hi> of <hi>uladiſlaus</hi> King of <hi>Hungary</hi>
+with <hi>Amurath</hi> the Turk, came into my memory; and one obſervation ſeems too
+much alike unto it (I pray you pardon the compariſon) the pretended principle of the
+one was <hi>Zeale for the Church,</hi>
+               <note place="margin">Hiſtory of the Turks, <hi>p.</hi> 290, 291 292.</note> 
+               <hi>and love of Religion,</hi> and ſo of the other; the ſcope
+of the one was to <hi>diſcharge the Oath,</hi> and ſo of the other: the method of the one
+was to abſolve <hi>by colour and pretence of binding under the Oath;</hi> ſo of the other: the
+Arguments of the one were <hi>defect of authority from Gods Vicar on earth, conſent of
+Confederates, contrariety to former Covenants, excluſion of greater good, expoſal to
+reproach and ſcandal, raſhneſſe and unadviſedneſſe in making,</hi> and the like; and ſuch
+are the arguments of the other: the one was by a man of eminencie; and eſteeme,
+and <hi>engaged in the ſame Oath;</hi> ſo is the other<g ref="char:punc">▪</g> ſuch is Sir the agreement in every
+point, that it would much better have become a Jeſuite or Popiſh Cardinal than a
+Proteſtant Doctor. I cannot but pray they may not agree in their intended end, <hi>the
+breach of the Covenant;</hi> leſt God make them agree in the <hi>miſerable effect,</hi> the loſſe
+of the Chriſtian Cauſe, ruine of King and people, and their perpetual infamy.</p>
+            <p>I ſhall Sir trouble you no longer, ſave to tell you this anſwer was diſpatched in
+<hi>two days;</hi> and had waited on you much ſooner, but that I hoped ſome more eminent
+and able pen would have pleaded the Cauſe of the Covenant, and matched the
+Doctor ſuitably to himſelf; ſuch as it is you now have it; I deſire it may be weigh<g ref="char:EOLhyphen"/>ed
+in the ballance of Reaſon and Religion, without reſpect unto the perſon; who
+by his meanneſſe and many calumnies (which yet he weareth as his crown) is ob<g ref="char:EOLhyphen"/>noxious
+to no little prejudice; but if he prove <hi>a Taylors Gooſe, hot and heavie,</hi> but
+<hi>blinde</hi> and <hi>dark,</hi> will be contented to wear the Cap: whilſt reſolved to approve
+himſelf no leſſe zealous in the Religious than he hath appeared in the Political or
+Civil part of the <hi>Solemne League and Covenant;</hi> and make it his care to <hi>give God
+the things that are Gods, as Caeſar the things that are Caeſars.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>July 8<hi>th.</hi>1660.</date>
+               </dateline>
+               <salute>SIR, Farewell, be faithful.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
